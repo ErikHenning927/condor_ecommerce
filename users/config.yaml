@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    erik.henning:
+      email: henningerik2@gmail.com
+      name: Erik Henning
+      password: $2b$12$mdZpnCxTmhBHzdzRgt8pI.gCXjKXozoNyKlcTTtLoZRH/bJSzHawy # To be replaced with hashed password
+    rodrigo.lenz:
+      email: rodrigo.lenz@condor.com.br
+      name: Rodrigo Lenz
+      password: $2b$12$2tcuDKXPrjyyPRh1WqgvBOb0tMLADQ6NfgkMSp01UUjcSu8qeQXZm # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - henningerik2@gmail.com
