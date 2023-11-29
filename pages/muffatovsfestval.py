@@ -15,6 +15,7 @@ except KeyError:
     st.error("Erro: A base de dados não foi carregada corretamente. Por favor, retorne à Home e tente novamente.")
     st.stop()
 st.title("Muffato vs Festval")
+
 search_ean = st.text_input("Pesquisar por EAN")
 df_festval = df[df["loja"] == "Festval"]
 df_muffato = df[df["loja"] == "Muffato"]

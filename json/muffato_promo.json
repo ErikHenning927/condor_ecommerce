@@ -1200,6 +1200,14 @@
         "Alt Text": "vinhos"
     },
     {
+        "Product Name": "Vinho Trapiche Varietals Malbec 750ml",
+        "link": "https://www.supermuffato.com.br/vinho-trapiche-varietal-malbec-tto-750ml-138353/p",
+        "ean_value": "7790240017045",
+        "Price": "R$ 44,20",
+        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_a_23_11_22_vinhos.png?v=638368650118870000",
+        "Alt Text": "vinhos"
+    },
+    {
         "Product Name": "Vinho Tinto Chalise Suave 750ml",
         "link": "https://www.supermuffato.com.br/vinho-chalise-tinto-suave-750ml-23773/p",
         "ean_value": "7896023081538",
@@ -1523,14 +1531,6 @@
         "Product Name": "Vinho Tinto Mi Pueblo Carménère 750ml",
         "link": "https://www.supermuffato.com.br/vinho-mi-puelho-carmenere-750ml-276186/p",
         "ean_value": "7804320090313",
-        "Price": "R$ 26,70",
-        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_a_23_11_22_vinhos.png?v=638368650118870000",
-        "Alt Text": "vinhos"
-    },
-    {
-        "Product Name": "Vinho Tinto Mi Pueblo Cabernet Sauvignon 750ml",
-        "link": "https://www.supermuffato.com.br/vinho-mi-puelho-cabernet-sauvignon-750ml-276185/p",
-        "ean_value": "7804320279008",
         "Price": "R$ 26,70",
         "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_a_23_11_22_vinhos.png?v=638368650118870000",
         "Alt Text": "vinhos"
@@ -2451,6 +2451,14 @@
         "Product Name": "Maionese Hellmann's Chipotle 335g",
         "link": "https://www.supermuffato.com.br/maionese-hellmann-s-chipotle-335g-274504/p",
         "ean_value": "7891150079908",
+        "Price": "R$ 13,00",
+        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_hellmanns.png?v=638359117912170000",
+        "Alt Text": "hellmanns"
+    },
+    {
+        "Product Name": "Maionese Hellmann's Verde 335g",
+        "link": "https://www.supermuffato.com.br/maionese-verde-hellmann-s-335g-274503/p",
+        "ean_value": "7891150079892",
         "Price": "R$ 13,00",
         "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_hellmanns.png?v=638359117912170000",
         "Alt Text": "hellmanns"
@@ -3472,6 +3480,22 @@
         "Alt Text": "mondelez"
     },
     {
+        "Product Name": "Biscoito BelVita Maçã e Canela Multipack 75g",
+        "link": "https://www.supermuffato.com.br/biscoito-belvita-maca-e-canela-multipack-75g-226052/p",
+        "ean_value": "7622210661777",
+        "Price": "R$ 5,10",
+        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_a_23_11_20_mondelez.png?v=638359117891930000",
+        "Alt Text": "mondelez"
+    },
+    {
+        "Product Name": "Biscoito BelVita Mel e Cacau Multipack 75g",
+        "link": "https://www.supermuffato.com.br/biscoito-belvita-mel-e-cacau-multipack-75g-226051/p",
+        "ean_value": "7622210661814",
+        "Price": "R$ 5,10",
+        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_a_23_11_20_mondelez.png?v=638359117891930000",
+        "Alt Text": "mondelez"
+    },
+    {
         "Product Name": "Biscoito Club Social Integral Tradicional Embalagem Econômica 288g",
         "link": "https://www.supermuffato.com.br/biscoito-club-social-integral-tradicional-288g-214202/p",
         "ean_value": "7622300992330",
@@ -3484,22 +3508,6 @@
         "link": "https://www.supermuffato.com.br/biscoito-club-social-regular-presunto-multipack-141g-214033/p",
         "ean_value": "7622210641632",
         "Price": "R$ 6,00",
-        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_a_23_11_20_mondelez.png?v=638359117891930000",
-        "Alt Text": "mondelez"
-    },
-    {
-        "Product Name": "Biscoito Club Social regular pizza multipack 141g",
-        "link": "https://www.supermuffato.com.br/biscoito-club-social-regular-pizza-multipack-141g-214032/p",
-        "ean_value": "7622210641151",
-        "Price": "R$ 6,00",
-        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_a_23_11_20_mondelez.png?v=638359117891930000",
-        "Alt Text": "mondelez"
-    },
-    {
-        "Product Name": "Gelatina em Pó Royal Limão 25g",
-        "link": "https://www.supermuffato.com.br/gelatina-royal-limao-25g-204349/p",
-        "ean_value": "7622300859893",
-        "Price": "R$ 1,50",
         "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_a_23_11_20_mondelez.png?v=638359117891930000",
         "Alt Text": "mondelez"
     },
@@ -3644,14 +3652,6 @@
         "link": "https://www.supermuffato.com.br/detergente-para-lava-loucas-em-po-finish-1kg-228303/p",
         "ean_value": "7891035024351",
         "Price": "R$ 61,80",
-        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_a_23_11_20_reckitt_70offseg.png?v=638359117898900000",
-        "Alt Text": "reckitt 70off"
-    },
-    {
-        "Product Name": "Detergente para Lava Louças em Tablete Finish 13 unidades",
-        "link": "https://www.supermuffato.com.br/detergente-finish-para-maquina-de-lavar-loucas-power-ball-super-poderoso-253-g-226515/p",
-        "ean_value": "7891035024368",
-        "Price": "R$ 36,00",
         "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_a_23_11_20_reckitt_70offseg.png?v=638359117898900000",
         "Alt Text": "reckitt 70off"
     },
@@ -3936,6 +3936,14 @@
         "Alt Text": "nestle chocolates"
     },
     {
+        "Product Name": "Chocolate Nestlé Classic ao Leite com Amendoim 150g",
+        "link": "https://www.supermuffato.com.br/chocolate-nestle-classic-ao-leite-com-amendoim-150g-285100/p",
+        "ean_value": "7891000358887",
+        "Price": "R$ 8,20",
+        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_24_chocolates_nestle_01.png?v=638364469227100000",
+        "Alt Text": "nestle chocolates"
+    },
+    {
         "Product Name": "Chocolate Nestlé Classic Duo Cookie 150g",
         "link": "https://www.supermuffato.com.br/chocolate-nestle-classic-duo-cookie-150g-285099/p",
         "ean_value": "7891000359006",
@@ -3948,14 +3956,6 @@
         "link": "https://www.supermuffato.com.br/chocolate-nestle-crunch-tablete-80g-288940/p",
         "ean_value": "7891000369371",
         "Price": "R$ 6,20",
-        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_24_chocolates_nestle_01.png?v=638364469227100000",
-        "Alt Text": "nestle chocolates"
-    },
-    {
-        "Product Name": "Chocolate Nestlé Classic ao Leite com Amendoim 150g",
-        "link": "https://www.supermuffato.com.br/chocolate-nestle-classic-ao-leite-com-amendoim-150g-285100/p",
-        "ean_value": "7891000358887",
-        "Price": "R$ 8,20",
         "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_24_chocolates_nestle_01.png?v=638364469227100000",
         "Alt Text": "nestle chocolates"
     },
@@ -4264,6 +4264,14 @@
         "Alt Text": "nestle cupom"
     },
     {
+        "Product Name": "Leite Fermentado Chamyto 6x75g",
+        "link": "https://www.supermuffato.com.br/leite-fermentado-nestle-chamyto-450g-142407/p",
+        "ean_value": "7891000070444",
+        "Price": "R$ 7,20",
+        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_nestle_01.png?v=638367087911730000",
+        "Alt Text": "nestle cupom"
+    },
+    {
         "Product Name": "Creme de Leite Nestlé Tradicional 200g",
         "link": "https://www.supermuffato.com.br/creme-de-leite-nestle-tradicional-200g-1548/p",
         "ean_value": "7891000126905",
@@ -4296,14 +4304,6 @@
         "Alt Text": "nestle cupom"
     },
     {
-        "Product Name": "Leite Fermentado Chamyto 6x75g",
-        "link": "https://www.supermuffato.com.br/leite-fermentado-nestle-chamyto-450g-142407/p",
-        "ean_value": "7891000070444",
-        "Price": "R$ 7,20",
-        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_nestle_01.png?v=638367087911730000",
-        "Alt Text": "nestle cupom"
-    },
-    {
         "Product Name": "Chocolate em Pó Nestlé Dois Frades 200g",
         "link": "https://www.supermuffato.com.br/chocolate-em-po-nestle-dois-frades-200g-1795/p",
         "ean_value": "7891000451304",
@@ -4316,6 +4316,14 @@
         "link": "https://www.supermuffato.com.br/creme-de-leite-nestle-300-g-1541/p",
         "ean_value": "7891000120101",
         "Price": "R$ 9,80",
+        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_nestle_01.png?v=638367087911730000",
+        "Alt Text": "nestle cupom"
+    },
+    {
+        "Product Name": "Chocolate Nestlé Classic ao Leite com Amendoim 150g",
+        "link": "https://www.supermuffato.com.br/chocolate-nestle-classic-ao-leite-com-amendoim-150g-285100/p",
+        "ean_value": "7891000358887",
+        "Price": "R$ 8,20",
         "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_nestle_01.png?v=638367087911730000",
         "Alt Text": "nestle cupom"
     },
@@ -4412,14 +4420,6 @@
         "link": "https://www.supermuffato.com.br/cereal-matinal-nestle-snow-flakes-620-g-1773/p",
         "ean_value": "7891000369500",
         "Price": "R$ 24,70",
-        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_nestle_01.png?v=638367087911730000",
-        "Alt Text": "nestle cupom"
-    },
-    {
-        "Product Name": "Chocolate Nestlé Classic ao Leite com Amendoim 150g",
-        "link": "https://www.supermuffato.com.br/chocolate-nestle-classic-ao-leite-com-amendoim-150g-285100/p",
-        "ean_value": "7891000358887",
-        "Price": "R$ 8,20",
         "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_nestle_01.png?v=638367087911730000",
         "Alt Text": "nestle cupom"
     },
@@ -4528,6 +4528,14 @@
         "Alt Text": "nestle cupom"
     },
     {
+        "Product Name": "Snack Mucilon Abobrinha 35g",
+        "link": "https://www.supermuffato.com.br/snack-mucilon-abobrinha-35g-273484/p",
+        "ean_value": "7891000320204",
+        "Price": "R$ 4,60",
+        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_nestle_01.png?v=638367087911730000",
+        "Alt Text": "nestle cupom"
+    },
+    {
         "Product Name": "Cookie CLASSIC Baunilha com Gotas de Chocolate 60g",
         "link": "https://www.supermuffato.com.br/cookie-classic-baunilha-com-gotas-de-chocolate-60g-272939/p",
         "ean_value": "7891000339596",
@@ -4596,14 +4604,6 @@
         "link": "https://www.supermuffato.com.br/cookie-negresco-baunilha-60g-228580/p",
         "ean_value": "7891000247624",
         "Price": "R$ 3,10",
-        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_nestle_01.png?v=638367087911730000",
-        "Alt Text": "nestle cupom"
-    },
-    {
-        "Product Name": "Cacau em Pó Nestlé Dois frades 100% Cacau 200g",
-        "link": "https://www.supermuffato.com.br/cacau-em-po-nestle-dois-frades-200g-219460/p",
-        "ean_value": "7891000120095",
-        "Price": "R$ 32,40",
         "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_nestle_01.png?v=638367087911730000",
         "Alt Text": "nestle cupom"
     },
@@ -5752,6 +5752,14 @@
         "Alt Text": "unilever"
     },
     {
+        "Product Name": "Amaciante Concentrado Comfort Frescor Intenso 1 L",
+        "link": "https://www.supermuffato.com.br/amaciante-concentrado-comfort-frescor-intenso-1-l-181478/p",
+        "ean_value": "7891150028944",
+        "Price": "R$ 21,90",
+        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_blackfriday_23_11_27_UNILEVER_03.png?v=638367059569900000",
+        "Alt Text": "unilever"
+    },
+    {
         "Product Name": "Batata Palha Yoki Frita Extrafina 100g",
         "link": "https://www.supermuffato.com.br/batata-palha-yoki-frita-extrafina-100g-267303/p",
         "ean_value": "7891095031122",
@@ -5772,6 +5780,14 @@
         "link": "https://www.supermuffato.com.br/sagu-yoki-500g-17010/p",
         "ean_value": "7891095300495",
         "Price": "R$ 11,60",
+        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_a_23_11_27_genereal_mills_natalissimo.jpg?v=638368555686430000",
+        "Alt Text": "general mills"
+    },
+    {
+        "Product Name": "Pipoca de Micro-ondas Yoki Natural com Sal 90g",
+        "link": "https://www.supermuffato.com.br/pipoca-de-micro-ondas-yoki-natural-com-sal-90g-247158/p",
+        "ean_value": "7891095030200",
+        "Price": "R$ 3,60",
         "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_a_23_11_27_genereal_mills_natalissimo.jpg?v=638368555686430000",
         "Alt Text": "general mills"
     },
@@ -5960,6 +5976,14 @@
         "Alt Text": "general mills"
     },
     {
+        "Product Name": "Salgadinho Yokitos Anéis Cebola 54g",
+        "link": "https://www.supermuffato.com.br/salgadinho-yokitos-aneis-cebola-54g-194593/p",
+        "ean_value": "7891095023318",
+        "Price": "R$ 2,60",
+        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_a_23_11_27_genereal_mills_natalissimo.jpg?v=638368555686430000",
+        "Alt Text": "general mills"
+    },
+    {
         "Product Name": "Batata Ondulada Yoki Natural 45g",
         "link": "https://www.supermuffato.com.br/batata-ondulada-yoki-natural-45-g-194582/p",
         "ean_value": "7891095023134",
@@ -6096,6 +6120,14 @@
         "Alt Text": "general mills"
     },
     {
+        "Product Name": "Paçoquinha Rolha Yoki 1,250kg",
+        "link": "https://www.supermuffato.com.br/pacoquinha-rolha-yoki-1250kg-1250kg-22209/p",
+        "ean_value": "7891095062119",
+        "Price": "R$ 42,20",
+        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_a_23_11_27_genereal_mills_natalissimo.jpg?v=638368555686430000",
+        "Alt Text": "general mills"
+    },
+    {
         "Product Name": "Tempero Mais Sabor Kitano Legumes 60g",
         "link": "https://www.supermuffato.com.br/tempero-mais-sabor-kitano-legumes-60g-17747/p",
         "ean_value": "7891095605583",
@@ -6108,30 +6140,6 @@
         "link": "https://www.supermuffato.com.br/tempero-kitano-cebola-alho-salsa-40g-17744/p",
         "ean_value": "7891095605170",
         "Price": "R$ 11,50",
-        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_a_23_11_27_genereal_mills_natalissimo.jpg?v=638368555686430000",
-        "Alt Text": "general mills"
-    },
-    {
-        "Product Name": "Camomila Kitano 10g",
-        "link": "https://www.supermuffato.com.br/camomila-kitano-10g-17739/p",
-        "ean_value": "7891095604760",
-        "Price": "R$ 7,60",
-        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_a_23_11_27_genereal_mills_natalissimo.jpg?v=638368555686430000",
-        "Alt Text": "general mills"
-    },
-    {
-        "Product Name": "Paprica Doce Kitano 50g",
-        "link": "https://www.supermuffato.com.br/paprica-kitano-doce-50g-17735/p",
-        "ean_value": "7891095604784",
-        "Price": "R$ 18,80",
-        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_a_23_11_27_genereal_mills_natalissimo.jpg?v=638368555686430000",
-        "Alt Text": "general mills"
-    },
-    {
-        "Product Name": "Tempero Mais Sabor Kitano Carne 60g",
-        "link": "https://www.supermuffato.com.br/tempero-mais-sabor-kitano-carne-60g-17728/p",
-        "ean_value": "7891095605576",
-        "Price": "R$ 5,10",
         "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_a_23_11_27_genereal_mills_natalissimo.jpg?v=638368555686430000",
         "Alt Text": "general mills"
     },
@@ -6272,6 +6280,14 @@
         "Alt Text": "francis"
     },
     {
+        "Product Name": "Sabonete Francis Relaxamento Gardênia 85g",
+        "link": "https://www.supermuffato.com.br/sabonete-francis-relaxamento-gardenia-85g-249163/p",
+        "ean_value": "7891176117486",
+        "Price": "R$ 1,50",
+        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_francis_01.png?v=638359117908100000",
+        "Alt Text": "francis"
+    },
+    {
         "Product Name": "Sabonete Francis Suave Alfazema 85g",
         "link": "https://www.supermuffato.com.br/sabonete-francis-suave-alfazema-85-g-249161/p",
         "ean_value": "7891176117516",
@@ -6307,14 +6323,6 @@
         "Product Name": "Sabonete Francis Sedução 85g",
         "link": "https://www.supermuffato.com.br/sabonete-francis-suave-gerbera-85g-249165/p",
         "ean_value": "7891176117479",
-        "Price": "R$ 1,50",
-        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_francis_01.png?v=638359117908100000",
-        "Alt Text": "francis"
-    },
-    {
-        "Product Name": "Sabonete Francis Relaxamento Gardênia 85g",
-        "link": "https://www.supermuffato.com.br/sabonete-francis-relaxamento-gardenia-85g-249163/p",
-        "ean_value": "7891176117486",
         "Price": "R$ 1,50",
         "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_francis_01.png?v=638359117908100000",
         "Alt Text": "francis"
@@ -6696,6 +6704,14 @@
         "Alt Text": "femsa"
     },
     {
+        "Product Name": "Suco Del Valle 100% Suco Maçã 1L",
+        "link": "https://www.supermuffato.com.br/suco-del-valle-100-suco-maca-1-l-219893/p",
+        "ean_value": "7894900612004",
+        "Price": "R$ 10,00",
+        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_a_23_11_20_femsa_01.png?v=638366800209870000",
+        "Alt Text": "femsa"
+    },
+    {
         "Product Name": "Suco Del Valle 100% Suco de Uva 1L",
         "link": "https://www.supermuffato.com.br/suco-del-valle-100-suco-de-uva-1-l-198133/p",
         "ean_value": "7894900611014",
@@ -6884,14 +6900,6 @@
         "link": "https://www.supermuffato.com.br/refrigerante-coca-cola-sabor-original-310ml-219948/p",
         "ean_value": "7894900011159",
         "Price": "R$ 3,10",
-        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_a_23_11_20_femsa_01.png?v=638366800209870000",
-        "Alt Text": "femsa"
-    },
-    {
-        "Product Name": "Suco Del Valle 100% Suco Maçã 1L",
-        "link": "https://www.supermuffato.com.br/suco-del-valle-100-suco-maca-1-l-219893/p",
-        "ean_value": "7894900612004",
-        "Price": "R$ 10,00",
         "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_a_23_11_20_femsa_01.png?v=638366800209870000",
         "Alt Text": "femsa"
     },
@@ -7320,14 +7328,6 @@
         "Alt Text": "heinz"
     },
     {
-        "Product Name": "Maionese Hemmer Tradicional 700g",
-        "link": "https://www.supermuffato.com.br/maionese-hemmer-tradicional-700g-286847/p",
-        "ean_value": "7891031412275",
-        "Price": "R$ 13,90",
-        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_a_23_11_20_hemmer_heinz_01.png?v=638359117888170000",
-        "Alt Text": "heinz"
-    },
-    {
         "Product Name": "Palmito Açaí Hemmer Tolete Vidro 300g",
         "link": "https://www.supermuffato.com.br/palmito-acai-hemmer-tolete-em-conserva-300g-3885/p",
         "ean_value": "7891031110034",
@@ -7440,6 +7440,14 @@
         "Alt Text": "piraque"
     },
     {
+        "Product Name": "Biscoito Isabela com Gergelim 350g",
+        "link": "https://www.supermuffato.com.br/biscoito-isabela-com-gergelim-350g-285544/p",
+        "ean_value": "7896022086824",
+        "Price": "R$ 6,20",
+        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_isabela_piraque_01.png?v=638359117913900000",
+        "Alt Text": "piraque"
+    },
+    {
         "Product Name": "Biscoito Isabela Tortinhas Doce de Leite 140g",
         "link": "https://www.supermuffato.com.br/biscoito-isabela-tortinhas-doce-de-leite-140g-9004539/p",
         "ean_value": "7896022086695",
@@ -7468,14 +7476,6 @@
         "link": "https://www.supermuffato.com.br/wafer-isabela-recheio-doce-de-leite-mumu-100g-286155/p",
         "ean_value": "7896022086701",
         "Price": "R$ 2,70",
-        "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_isabela_piraque_01.png?v=638359117913900000",
-        "Alt Text": "piraque"
-    },
-    {
-        "Product Name": "Biscoito Isabela com Gergelim 350g",
-        "link": "https://www.supermuffato.com.br/biscoito-isabela-com-gergelim-350g-285544/p",
-        "ean_value": "7896022086824",
-        "Price": "R$ 6,20",
         "Image URL": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_black_friday_b_23_11_20_isabela_piraque_01.png?v=638359117913900000",
         "Alt Text": "piraque"
     },

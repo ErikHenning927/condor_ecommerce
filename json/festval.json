@@ -138,12 +138,6 @@
         "Price": 55.9
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Carne Moída de Patinho 1953 Friboi kg Carne Moída de Patinho Kg",
-        "ean_value": "26985",
-        "Price": 49.9
-    },
-    {
         "brand": "Friboi",
         "Product Name": "Hambúrguer Gourmet 1953 Friboi 400g",
         "ean_value": "7894904231317",
@@ -240,17 +234,17 @@
         "Price": 36.9
     },
     {
+        "brand": "Copacol",
+        "Product Name": "Peito de Frango para Strogonoff Copacol kg",
+        "ean_value": "22530",
+        "Price": 32.98
+    },
+    {
         "Product Name": "não encontrado",
         "ean_value": "não encontrado",
         "Price": 0,
         "ListPrice": 0,
         "brand": "sem marca"
-    },
-    {
-        "brand": "Copacol",
-        "Product Name": "Peito de Frango para Strogonoff Copacol kg",
-        "ean_value": "22530",
-        "Price": 32.98
     },
     {
         "brand": "Copacol",
@@ -349,16 +343,16 @@
         "Price": 29.75
     },
     {
-        "brand": "Águia",
-        "Product Name": "Lenha Águia 8k",
-        "ean_value": "742832306331",
-        "Price": 39.9
-    },
-    {
         "brand": "Da Ilha",
         "Product Name": "Gel Acendedor Da Ilha 480g",
         "ean_value": "7896017200495",
         "Price": 15.99
+    },
+    {
+        "brand": "Águia",
+        "Product Name": "Lenha Águia 8k",
+        "ean_value": "742832306331",
+        "Price": 39.9
     },
     {
         "brand": "Diversos",
@@ -487,17 +481,17 @@
         "Price": 29.98
     },
     {
+        "brand": "Nat.",
+        "Product Name": "Filé de Coxa e Sobrecoxa Grelhado Nat 500g",
+        "ean_value": "7908612900127",
+        "Price": 18.98
+    },
+    {
         "Product Name": "não encontrado",
         "ean_value": "não encontrado",
         "Price": 0,
         "ListPrice": 0,
         "brand": "sem marca"
-    },
-    {
-        "brand": "Nat.",
-        "Product Name": "Filé de Coxa e Sobrecoxa Grelhado Nat 500g",
-        "ean_value": "7908612900127",
-        "Price": 18.98
     },
     {
         "brand": "Copacol",
@@ -522,6 +516,12 @@
         "Product Name": "Coxão Mole Moído Reserva Friboi  400g",
         "ean_value": "7896031213709",
         "Price": 22.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Carne Moída de Patinho 1953 Friboi kg Carne Moída de Patinho Kg",
+        "ean_value": "26985",
+        "Price": 49.9
     },
     {
         "brand": "Super Brasa",
@@ -1151,6 +1151,12 @@
         "Price": 59
     },
     {
+        "brand": "Apaltagua",
+        "Product Name": "Vinho Chileno Apaltagua Reserva Cabernet Sauvignon 750ml",
+        "ean_value": "7804606600045",
+        "Price": 34.9
+    },
+    {
         "brand": "Faustino",
         "Product Name": "Vinho Espanhol Monterío Tempranillo Victorianas Rosé 750ml",
         "ean_value": "8412048955051",
@@ -1161,12 +1167,6 @@
         "Product Name": "Vinho Brasileiro Almadén Moscatel Frisante Blanc 750ml",
         "ean_value": "7896756805227",
         "Price": 39.5
-    },
-    {
-        "brand": "Apaltagua",
-        "Product Name": "Vinho Chileno Apaltagua Reserva Cabernet Sauvignon 750ml",
-        "ean_value": "7804606600045",
-        "Price": 34.9
     },
     {
         "brand": "Pascual Toso",
@@ -2078,16 +2078,16 @@
         "Price": 169
     },
     {
-        "brand": "Gattavecchi",
-        "Product Name": "Vinho Italiano Gattavechi Vernaccia 750ml",
-        "ean_value": "8010376001602",
-        "Price": 99
-    },
-    {
         "brand": "Hereford",
         "Product Name": "Vinho Argentino Hereford Merlot 750ml",
         "ean_value": "7791540040559",
         "Price": 34.95
+    },
+    {
+        "brand": "Gattavecchi",
+        "Product Name": "Vinho Italiano Gattavechi Vernaccia 750ml",
+        "ean_value": "8010376001602",
+        "Price": 99
     },
     {
         "brand": "Freixenet",
@@ -2301,12 +2301,6 @@
         "Price": 59.9
     },
     {
-        "brand": "Donna Olimpia",
-        "Product Name": "Vinho Italiano Donna Olimpia Costa Toscana 750ml",
-        "ean_value": "8055719310188",
-        "Price": 99
-    },
-    {
         "brand": "Tommasi",
         "Product Name": "Vinho Italiano Tommasi Rafaèl Valpolicella Classico Superiore 750ml",
         "ean_value": "8004645350102",
@@ -2323,6 +2317,12 @@
         "Product Name": "Espumante Brasileiro Miolo Millésime Brut 750ml",
         "ean_value": "7896756800963",
         "Price": 149
+    },
+    {
+        "brand": "Donna Olimpia",
+        "Product Name": "Vinho Italiano Donna Olimpia Costa Toscana 750ml",
+        "ean_value": "8055719310188",
+        "Price": 99
     },
     {
         "brand": "Diversos",
@@ -3106,12 +3106,6 @@
     },
     {
         "brand": "Coca-Cola",
-        "Product Name": "Néctar Laranja Del Valle Caixa 1l",
-        "ean_value": "7898341430111",
-        "Price": 6.29
-    },
-    {
-        "brand": "Coca-Cola",
         "Product Name": "Suco Néctar Del Valle Abacaxi 1L",
         "ean_value": "7894900660364",
         "Price": 6.29
@@ -3123,15 +3117,15 @@
         "Price": 3.99
     },
     {
+        "brand": "Coca-Cola",
+        "Product Name": "Néctar Laranja Del Valle Caixa 1l",
+        "ean_value": "7898341430111",
+        "Price": 6.29
+    },
+    {
         "brand": "Sankt Gallen",
         "Product Name": "Cerveja Lager Premium Gold Therezópolis Garrafa 355ml",
         "ean_value": "7896371000175",
-        "Price": 3.99
-    },
-    {
-        "brand": "Powerade",
-        "Product Name": "Isotônico Powerade Limão 500ml",
-        "ean_value": "7894900500035",
         "Price": 3.99
     },
     {
@@ -3139,6 +3133,12 @@
         "Product Name": "Cerveja Petra Puro Malte Lata 350ml",
         "ean_value": "7897395099329",
         "Price": 2.99
+    },
+    {
+        "brand": "Powerade",
+        "Product Name": "Isotônico Powerade Limão 500ml",
+        "ean_value": "7894900500035",
+        "Price": 3.99
     },
     {
         "brand": "Coca-Cola",
@@ -3183,16 +3183,16 @@
         "Price": 7.99
     },
     {
-        "brand": "Coronita",
-        "Product Name": "Cerveja Coronita 210ml Long Neck",
-        "ean_value": "7891149108749",
-        "Price": 4.69
-    },
-    {
         "brand": "Antarctica",
         "Product Name": "Cerveja Antarctica Original Pilsen Garrafa 600ml",
         "ean_value": "78905351",
         "Price": 7.49
+    },
+    {
+        "brand": "Coronita",
+        "Product Name": "Cerveja Coronita 210ml Long Neck",
+        "ean_value": "7891149108749",
+        "Price": 4.69
     },
     {
         "brand": "Patagonia",
@@ -3220,15 +3220,15 @@
     },
     {
         "brand": "Coca-Cola",
-        "Product Name": "Suco Del Valle Caju 1L",
-        "ean_value": "7898341430081",
-        "Price": 6.29
-    },
-    {
-        "brand": "Coca-Cola",
         "Product Name": "Água Mineral Crystal com Gás 1,5L",
         "ean_value": "7894900531015",
         "Price": 3.99
+    },
+    {
+        "brand": "Coca-Cola",
+        "Product Name": "Suco Del Valle Caju 1L",
+        "ean_value": "7898341430081",
+        "Price": 6.29
     },
     {
         "brand": "Spaten",
@@ -3677,12 +3677,6 @@
         "Price": 2.79
     },
     {
-        "brand": "Eisenbahn",
-        "Product Name": "Cerveja American IPA Puro Malte Eisenbahn Sleek Lata 350ml",
-        "ean_value": "7898367984056",
-        "Price": 4.99
-    },
-    {
         "brand": "Ambev",
         "Product Name": "Cerveja Witbier Hoegaarden Lata 269ml",
         "ean_value": "7891991298476",
@@ -3725,6 +3719,12 @@
         "Price": 3.49
     },
     {
+        "brand": "Eisenbahn",
+        "Product Name": "Cerveja American IPA Puro Malte Eisenbahn Sleek Lata 350ml",
+        "ean_value": "7898367984056",
+        "Price": 4.99
+    },
+    {
         "brand": "Ambev",
         "Product Name": "Refrigerante Antarctica Soda Limonada Lata 350ml",
         "ean_value": "7891991000833",
@@ -3761,16 +3761,16 @@
         "Price": 11.99
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Água Mineral com Gás Sferriê 510ml",
-        "ean_value": "7898014855081",
-        "Price": 2.39
-    },
-    {
         "brand": "Coca-Cola",
         "Product Name": "Chá Mate Original Matte Leão Garrafa 450ml",
         "ean_value": "7891098040688",
         "Price": 3.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Água Mineral com Gás Sferriê 510ml",
+        "ean_value": "7898014855081",
+        "Price": 2.39
     },
     {
         "brand": "Coca-Cola",
@@ -3996,16 +3996,16 @@
         "Price": 5.99
     },
     {
-        "brand": "Casa Madeira",
-        "Product Name": "Suco de Uva Integral Casa Madeira 1L",
-        "ean_value": "7898070110841",
-        "Price": 19.98
-    },
-    {
         "brand": "Jack Daniel's",
         "Product Name": "Whiskey Jack Daniel's Honey 1L",
         "ean_value": "82184000328",
         "Price": 159.9
+    },
+    {
+        "brand": "Casa Madeira",
+        "Product Name": "Suco de Uva Integral Casa Madeira 1L",
+        "ean_value": "7898070110841",
+        "Price": 19.98
     },
     {
         "brand": "Blue Moon",
@@ -4352,6 +4352,12 @@
         "Price": 37.9
     },
     {
+        "brand": "Diversos",
+        "Product Name": "Whisky Chivas Regal 12 anos Escocês  - 750 ml Whisky Chivas Regal 12 Anos 750ml",
+        "ean_value": "80432400395",
+        "Price": 129.9
+    },
+    {
         "brand": "Antarctica",
         "Product Name": "Água Tônica Baixa Caloria Antarctica Garrafa 1L",
         "ean_value": "7891991298537",
@@ -4362,12 +4368,6 @@
         "Product Name": "Energético Juice Monster Pacific Punch Lata 473ml",
         "ean_value": "1220000250031",
         "Price": 8.99
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Whisky Chivas Regal 12 anos Escocês  - 750 ml Whisky Chivas Regal 12 Anos 750ml",
-        "ean_value": "80432400395",
-        "Price": 129.9
     },
     {
         "brand": "Casa Madeira",
@@ -4430,16 +4430,16 @@
         "Price": 99.9
     },
     {
-        "brand": "Ades",
-        "Product Name": "Bebida à Base de Amêndoa sem Açúcar Ades 1L",
-        "ean_value": "7894900084009",
-        "Price": 15.98
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Whisky Ballantine's Finest Blended Escocês - 1 litro Whisky Ballantines Finest 8 Anos 1L",
         "ean_value": "5010106111956",
         "Price": 99.9
+    },
+    {
+        "brand": "Ades",
+        "Product Name": "Bebida à Base de Amêndoa sem Açúcar Ades 1L",
+        "ean_value": "7894900084009",
+        "Price": 15.98
     },
     {
         "brand": "Monster",
@@ -4485,15 +4485,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Energético Red Bull Lata 473ml",
-        "ean_value": "9002490214166",
-        "Price": 14.99
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Água de Coco Esterilizada Kero Coco Caixa 330ml",
         "ean_value": "7896828000482",
         "Price": 6.49
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Energético Red Bull Lata 473ml",
+        "ean_value": "9002490214166",
+        "Price": 14.99
     },
     {
         "brand": "Diversos",
@@ -5394,16 +5394,16 @@
         "Price": 6.99
     },
     {
-        "brand": "Mili",
-        "Product Name": "Toalhas de Papel Mili Gran Chef 360 Folhas 3 Unidades",
-        "ean_value": "7896104991961",
-        "Price": 19.99
-    },
-    {
         "brand": "Scotch-Brite",
         "Product Name": "Esponja Não Risca Banheiro Scotch-Brite 3 Unidades",
         "ean_value": "7891040137992",
         "Price": 7.38
+    },
+    {
+        "brand": "Mili",
+        "Product Name": "Toalhas de Papel Mili Gran Chef 360 Folhas 3 Unidades",
+        "ean_value": "7896104991961",
+        "Price": 19.99
     },
     {
         "brand": "Scott",
@@ -5624,15 +5624,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Saco Para Lixo Reciclado Dover Roll 30 L 20 Und",
-        "ean_value": "7896082823384",
-        "Price": 24.75
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Sacola Ecológica Rafia Retornável Unidade",
         "ean_value": "7898964395019",
         "Price": 7.98
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Saco Para Lixo Reciclado Dover Roll 30 L 20 Und",
+        "ean_value": "7896082823384",
+        "Price": 24.75
     },
     {
         "brand": "Diversos",
@@ -6652,16 +6652,16 @@
         "Price": 6.99
     },
     {
-        "brand": "Festval",
-        "Product Name": "Kombucha Festval Uva Rosé e Maça 300 ml",
-        "ean_value": "7908073101804",
-        "Price": 9.98
-    },
-    {
         "brand": "Mãe Terra",
         "Product Name": "Granola Tradicional com Castanhas Brasileiras Mãe Terra Pacote 800g",
         "ean_value": "7891150075443",
         "Price": 38.9
+    },
+    {
+        "brand": "Festval",
+        "Product Name": "Kombucha Festval Uva Rosé e Maça 300 ml",
+        "ean_value": "7908073101804",
+        "Price": 9.98
     },
     {
         "brand": "Yoki",
@@ -6983,16 +6983,16 @@
         "Price": 39.99
     },
     {
-        "brand": "Twinings",
-        "Product Name": "Chá Verde Twinings 20g",
-        "ean_value": "70177197247",
-        "Price": 21.9
-    },
-    {
         "brand": "Vitao",
         "Product Name": "Granola Tradicional Vitao Pacote 250g",
         "ean_value": "7896063230057",
         "Price": 19.99
+    },
+    {
+        "brand": "Twinings",
+        "Product Name": "Chá Verde Twinings 20g",
+        "ean_value": "70177197247",
+        "Price": 21.9
     },
     {
         "brand": "Diversos",
@@ -7316,15 +7316,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Brownie Chocolate Zero Açúcar Sem Glúten Belive 40g",
-        "ean_value": "7898380410938",
-        "Price": 7.69
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Pack Barra De Cereal Aveia Banana E Mel Nutry Pacote 3 Unidades 66g",
         "ean_value": "7891331010553",
         "Price": 5.49
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Brownie Chocolate Zero Açúcar Sem Glúten Belive 40g",
+        "ean_value": "7898380410938",
+        "Price": 7.69
     },
     {
         "brand": "Diversos",
@@ -7496,15 +7496,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Pack Barra De Cereal Banana Nutry Caixa 66g 3 Unidades Pack Barra De Cereal Trufa De Chocolate Nutry Caixa 60g 3 Unidades",
-        "ean_value": "7891331001100",
-        "Price": 6.65
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Pack Barra De Cereal Coco Cobertura Chocolate Nutry Pacote 3 Unidades 66g",
         "ean_value": "7891331014452",
         "Price": 5.49
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Pack Barra De Cereal Banana Nutry Caixa 66g 3 Unidades Pack Barra De Cereal Trufa De Chocolate Nutry Caixa 60g 3 Unidades",
+        "ean_value": "7891331001100",
+        "Price": 6.65
     },
     {
         "Product Name": "não encontrado",
@@ -7569,15 +7569,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Gelatina Tangerina Diet Com Stevia Lowçucar 10g",
-        "ean_value": "7896292002814",
-        "Price": 4.99
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Biscoito Leite Zero Lactose Lowçucar Pacote 140g",
         "ean_value": "7896292002791",
         "Price": 10.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Gelatina Tangerina Diet Com Stevia Lowçucar 10g",
+        "ean_value": "7896292002814",
+        "Price": 4.99
     },
     {
         "brand": "Diversos",
@@ -7712,6 +7712,12 @@
         "Price": 6.99
     },
     {
+        "brand": "Sabor Leve",
+        "Product Name": "Palitos Salgados de Quinoa e Gergelim Leve Croc 120g",
+        "ean_value": "7898901525110",
+        "Price": 16.98
+    },
+    {
         "brand": "Diversos",
         "Product Name": "Café Orgânico Extra Forte Native 250G",
         "ean_value": "7898206501161",
@@ -7722,12 +7728,6 @@
         "Product Name": "Açúcar Copra de Coco 350 g",
         "ean_value": "7898596080192",
         "Price": 42.9
-    },
-    {
-        "brand": "Sabor Leve",
-        "Product Name": "Palitos Salgados de Quinoa e Gergelim Leve Croc 120g",
-        "ean_value": "7898901525110",
-        "Price": 16.98
     },
     {
         "brand": "Diversos",
@@ -8539,12 +8539,6 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Barra de Cereal Trufa de Chocolate Nutry 60g 3 Unidades",
-        "ean_value": "7891331010072",
-        "Price": 5.99
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Barra Chocolate Soy Diet 80g",
         "ean_value": "7896043013229",
         "Price": 14.99
@@ -8590,6 +8584,12 @@
         "Product Name": "Adoçante Líquido Linea Sweet Natural 60ml",
         "ean_value": "7896001282353",
         "Price": 23.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Barra de Cereal Trufa de Chocolate Nutry 60g 3 Unidades",
+        "ean_value": "7891331010072",
+        "Price": 5.99
     },
     {
         "brand": "Vitao",
@@ -9116,10 +9116,10 @@
         "Price": 4.29
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Queijo Parmesão Ralado Président Pacote 50g",
-        "ean_value": "7896034680126",
-        "Price": 6.59
+        "brand": "Nestlé",
+        "Product Name": "Iogurte Grego Torta de Maracujá Nestlé Pote 90g",
+        "ean_value": "78936690",
+        "Price": 2.99
     },
     {
         "Product Name": "não encontrado",
@@ -9129,10 +9129,10 @@
         "brand": "sem marca"
     },
     {
-        "brand": "Nestlé",
-        "Product Name": "Iogurte Grego Torta de Maracujá Nestlé Pote 90g",
-        "ean_value": "78936690",
-        "Price": 2.99
+        "brand": "Diversos",
+        "Product Name": "Queijo Parmesão Ralado Président Pacote 50g",
+        "ean_value": "7896034680126",
+        "Price": 6.59
     },
     {
         "brand": "Catupiry®",
@@ -9160,12 +9160,6 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Queijo Aviação Minas Padrão kg",
-        "ean_value": "4822",
-        "Price": 69.9
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Peito de Peru Defumado Seara 150g",
         "ean_value": "7894904268559",
         "Price": 11.98
@@ -9175,6 +9169,12 @@
         "Product Name": "Suco Festval Tropical 250ml",
         "ean_value": "7898953924947",
         "Price": 5.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Queijo Aviação Minas Padrão kg",
+        "ean_value": "4822",
+        "Price": 69.9
     },
     {
         "brand": "Witmarsum",
@@ -9297,16 +9297,16 @@
         "Price": 10.99
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Queijo Minas  Verde Campo Lacfree kg",
-        "ean_value": "1826",
-        "Price": 69.9
-    },
-    {
         "brand": "Festval",
         "Product Name": "Pizza Festval 4 Queijos 500g",
         "ean_value": "7908073100852",
         "Price": 26.98
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Queijo Minas  Verde Campo Lacfree kg",
+        "ean_value": "1826",
+        "Price": 69.9
     },
     {
         "brand": "Festval",
@@ -9412,16 +9412,16 @@
         "Price": 9.98
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Queijo Président Prato Fatiado 300g",
-        "ean_value": "7891097103858",
-        "Price": 15.99
-    },
-    {
         "brand": "Sadia",
         "Product Name": "Pizza Lombo com Requeijão e Mussarela Sadia Caixa 460g",
         "ean_value": "7893000671997",
         "Price": 23.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Queijo Président Prato Fatiado 300g",
+        "ean_value": "7891097103858",
+        "Price": 15.99
     },
     {
         "brand": "Seara",
@@ -9431,15 +9431,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Queijo Parmesão Ralado Vigor Pacote 50g",
-        "ean_value": "7891999970053",
-        "Price": 7.39
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Iogurte Vigor Grego Tradicional 90g",
         "ean_value": "7896625211142",
         "Price": 2.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Queijo Parmesão Ralado Vigor Pacote 50g",
+        "ean_value": "7891999970053",
+        "Price": 7.39
     },
     {
         "brand": "Festval",
@@ -9472,16 +9472,16 @@
         "Price": 26.98
     },
     {
-        "brand": "Festval",
-        "Product Name": "Pizza Festval Corn Bacon 500g",
-        "ean_value": "7908073100791",
-        "Price": 26.98
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Linguiça tipo calabresa Seara 400g 2pc",
         "ean_value": "7894904009862",
         "Price": 12.98
+    },
+    {
+        "brand": "Festval",
+        "Product Name": "Pizza Festval Corn Bacon 500g",
+        "ean_value": "7908073100791",
+        "Price": 26.98
     },
     {
         "brand": "Tirolez",
@@ -9526,12 +9526,6 @@
         "Price": 6.99
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Requeijão Cremoso Tradicional Vigor Copo 200g",
-        "ean_value": "7891999144485",
-        "Price": 8.69
-    },
-    {
         "brand": "Sadia",
         "Product Name": "Patê de Peito de Peru Defumado Sadia 100g",
         "ean_value": "7893000025653",
@@ -9542,6 +9536,12 @@
         "Product Name": "Requeijão Cremoso Tradicional Catupiry Pote 420g",
         "ean_value": "7896353302068",
         "Price": 18.98
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Requeijão Cremoso Tradicional Vigor Copo 200g",
+        "ean_value": "7891999144485",
+        "Price": 8.69
     },
     {
         "brand": "Nestlé",
@@ -9610,10 +9610,10 @@
         "Price": 15.98
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Queijo Prato Fatiado Light Zero Lactose Tirolez 150g",
-        "ean_value": "7896030520228",
-        "Price": 10.99
+        "brand": "Nestlé",
+        "Product Name": "Bebida Láctea Alpino 280ml Bebida Láctea Nestlé Fast Alpino 280ml",
+        "ean_value": "7891000067048",
+        "Price": 6.39
     },
     {
         "Product Name": "não encontrado",
@@ -9623,10 +9623,10 @@
         "brand": "sem marca"
     },
     {
-        "brand": "Nestlé",
-        "Product Name": "Bebida Láctea Alpino 280ml Bebida Láctea Nestlé Fast Alpino 280ml",
-        "ean_value": "7891000067048",
-        "Price": 6.39
+        "brand": "Diversos",
+        "Product Name": "Queijo Prato Fatiado Light Zero Lactose Tirolez 150g",
+        "ean_value": "7896030520228",
+        "Price": 10.99
     },
     {
         "brand": "Sadia",
@@ -9683,16 +9683,16 @@
         "Price": 24.99
     },
     {
-        "brand": "Verde Campo",
-        "Product Name": "Queijo Verde Campo Minas Frescal kg",
-        "ean_value": "9393",
-        "Price": 52.9
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Manteiga de Búfala com Sal Bom Destino Pote 200g",
         "ean_value": "7898130990512",
         "Price": 10.98
+    },
+    {
+        "brand": "Verde Campo",
+        "Product Name": "Queijo Verde Campo Minas Frescal kg",
+        "ean_value": "9393",
+        "Price": 52.9
     },
     {
         "brand": "Sadia",
@@ -9737,16 +9737,16 @@
         "Price": 6.99
     },
     {
-        "brand": "Yakult",
-        "Product Name": "Pack Leite Fermentado Desnatado Yakult Frasco 480g 6 Unidades",
-        "ean_value": "7891156001040",
-        "Price": 12.49
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Ervilha Copacol 300 g",
         "ean_value": "7891527064681",
         "Price": 9.98
+    },
+    {
+        "brand": "Yakult",
+        "Product Name": "Pack Leite Fermentado Desnatado Yakult Frasco 480g 6 Unidades",
+        "ean_value": "7891156001040",
+        "Price": 12.49
     },
     {
         "brand": "Verde Campo",
@@ -9804,15 +9804,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Bebida à Base de Castanha de Cajú Orgânica Original a Tal da Castanha  1L",
-        "ean_value": "7898955705049",
-        "Price": 18.99
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Batavo Flan Baunilha Frutas Vermelhas 200 g",
         "ean_value": "78912298",
         "Price": 4.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Bebida à Base de Castanha de Cajú Orgânica Original a Tal da Castanha  1L",
+        "ean_value": "7898955705049",
+        "Price": 18.99
     },
     {
         "brand": "Ninho",
@@ -9821,16 +9821,16 @@
         "Price": 7.99
     },
     {
-        "brand": "Ninho",
-        "Product Name": "Leite UHT Semidesnatado Ninho Levinho Forti+ Caixa com Tampa 1L",
-        "ean_value": "7898215157427",
-        "Price": 6.99
-    },
-    {
         "brand": "Campo Largo",
         "Product Name": "Suco Integral Uva Tinto Campo Largo Garrafa 1,35L",
         "ean_value": "7896931614149",
         "Price": 14.98
+    },
+    {
+        "brand": "Ninho",
+        "Product Name": "Leite UHT Semidesnatado Ninho Levinho Forti+ Caixa com Tampa 1L",
+        "ean_value": "7898215157427",
+        "Price": 6.99
     },
     {
         "brand": "Diversos",
@@ -10141,6 +10141,12 @@
         "Price": 19.98
     },
     {
+        "brand": "Président",
+        "Product Name": "Queijo Parmesão Cilindro Président 180g",
+        "ean_value": "7891097104619",
+        "Price": 26.99
+    },
+    {
         "brand": "Diversos",
         "Product Name": "PAO DE ALHO SANTA MASSA",
         "ean_value": "7898067340404",
@@ -10151,12 +10157,6 @@
         "Product Name": "Iogurte Desnatado Bicamadas Maracujá Zero Lactose Verde Campo Natural Whey Pote 140g",
         "ean_value": "7898205925401",
         "Price": 8.19
-    },
-    {
-        "brand": "Président",
-        "Product Name": "Queijo Parmesão Cilindro Président 180g",
-        "ean_value": "7891097104619",
-        "Price": 26.99
     },
     {
         "brand": "Danone",
@@ -10478,16 +10478,16 @@
         "Price": 7.98
     },
     {
-        "brand": "McCain",
-        "Product Name": "Batata Pré-Frita Noisette Congelada McCain ao Forno Pacote 400g",
-        "ean_value": "7896105800903",
-        "Price": 15.98
-    },
-    {
         "brand": "Ninho",
         "Product Name": "Leite UHT Semidesnatado Zero Lactose Ninho Forti+ Caixa 1L",
         "ean_value": "7891000119495",
         "Price": 7.59
+    },
+    {
+        "brand": "McCain",
+        "Product Name": "Batata Pré-Frita Noisette Congelada McCain ao Forno Pacote 400g",
+        "ean_value": "7896105800903",
+        "Price": 15.98
     },
     {
         "brand": "Diversos",
@@ -10919,12 +10919,6 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Bacon em cubos Seara Gourmet 140g",
-        "ean_value": "7894904006205",
-        "Price": 12.49
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Polpa Brasfrut Maracujá 100 mL",
         "ean_value": "7896014400829",
         "Price": 5.99
@@ -10991,15 +10985,15 @@
     },
     {
         "brand": "Danone",
-        "Product Name": "Bebida Láctea UHT Milkshake de Baunilha Zero Lactose Yopro 25g High Protein Caixa 250ml",
-        "ean_value": "7891025118985",
-        "Price": 12.99
-    },
-    {
-        "brand": "Danone",
         "Product Name": "Sobremesa Láctea Chocolate Branco Danette Bandeja 540g 6 Unidades Embalagem Econômica",
         "ean_value": "7891025121602",
         "Price": 16.98
+    },
+    {
+        "brand": "Danone",
+        "Product Name": "Bebida Láctea UHT Milkshake de Baunilha Zero Lactose Yopro 25g High Protein Caixa 250ml",
+        "ean_value": "7891025118985",
+        "Price": 12.99
     },
     {
         "brand": "Diversos",
@@ -11050,16 +11044,16 @@
         "Price": 12.39
     },
     {
-        "brand": "Activia",
-        "Product Name": "Leite Fermentado Integral Morango Activia Bandeja 510g 6 Unidades",
-        "ean_value": "7891025123200",
-        "Price": 15.19
-    },
-    {
         "brand": "Nude.",
         "Product Name": "Bebida à Base de Aveia Caramelo & Flor de Sal Nude. Caixa 250ml",
         "ean_value": "7898968764132",
         "Price": 11.99
+    },
+    {
+        "brand": "Activia",
+        "Product Name": "Leite Fermentado Integral Morango Activia Bandeja 510g 6 Unidades",
+        "ean_value": "7891025123200",
+        "Price": 15.19
     },
     {
         "brand": "Diversos",
@@ -11098,17 +11092,17 @@
         "Price": 11.75
     },
     {
+        "brand": "Diversos",
+        "Product Name": "Polpa Brasfrut Caju 100ml",
+        "ean_value": "7896014400553",
+        "Price": 2.99
+    },
+    {
         "Product Name": "não encontrado",
         "ean_value": "não encontrado",
         "Price": 0,
         "ListPrice": 0,
         "brand": "sem marca"
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Polpa Brasfrut Caju 100ml",
-        "ean_value": "7896014400553",
-        "Price": 2.99
     },
     {
         "brand": "Diversos",
@@ -11343,6 +11337,12 @@
         "Product Name": "Cream Cheese Philadelphia Pote 150g",
         "ean_value": "7893333325000",
         "Price": 12.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Leite Fermentado Parcialmente Desnatado Morango Actimel Frasco 100g",
+        "ean_value": "7891025113447",
+        "Price": 3.99
     },
     {
         "Product Name": "não encontrado",
@@ -11852,12 +11852,6 @@
         "Price": 16.9
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Sabonete Líquido Antibacteriano Macadâmia Protex Nutri Protect  200ml Refil",
-        "ean_value": "7891024029367",
-        "Price": 8.99
-    },
-    {
         "brand": "Nivea",
         "Product Name": "Antitranspirante Aerossol Nivea Men Invisible for Black & White 200ml Embalagem Econômica",
         "ean_value": "4005900105080",
@@ -11880,6 +11874,12 @@
         "Product Name": "Sabonete Líquido Nivea Creme Care Sachê 200ml Refil Embalagem Econômica",
         "ean_value": "4005900734082",
         "Price": 6.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Sabonete Líquido Antibacteriano Macadâmia Protex Nutri Protect  200ml Refil",
+        "ean_value": "7891024029367",
+        "Price": 8.99
     },
     {
         "brand": "Always",
@@ -11990,16 +11990,16 @@
         "Price": 9.9
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Carga de Aparelho para Barbear Gillette Mach3 Sensitive 4 Unidades Leve Mais Pague Menos",
-        "ean_value": "7500435122627",
-        "Price": 44.9
-    },
-    {
         "brand": "Nivea",
         "Product Name": "Antitranspirante Aerossol Nivea Invisible for Black & White Clear 150ml",
         "ean_value": "4005900036667",
         "Price": 14.9
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Carga de Aparelho para Barbear Gillette Mach3 Sensitive 4 Unidades Leve Mais Pague Menos",
+        "ean_value": "7500435122627",
+        "Price": 44.9
     },
     {
         "brand": "Diversos",
@@ -12014,16 +12014,16 @@
         "Price": 4.99
     },
     {
-        "brand": "Colgate",
-        "Product Name": "Creme Dental Colgate Natural Extracts Purificante 90g",
-        "ean_value": "6920354824395",
-        "Price": 9.99
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Fio Denta Oral B Cera 50m",
         "ean_value": "7800005082024",
         "Price": 15.99
+    },
+    {
+        "brand": "Colgate",
+        "Product Name": "Creme Dental Colgate Natural Extracts Purificante 90g",
+        "ean_value": "6920354824395",
+        "Price": 9.99
     },
     {
         "brand": "Diversos",
@@ -12099,12 +12099,6 @@
         "Price": 29.9
     },
     {
-        "brand": "Colgate",
-        "Product Name": "Enxaguante Bucal Zero Álcool Ice Colgate Plax Frasco 60ml",
-        "ean_value": "7891024136089",
-        "Price": 4.49
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Sabonete em Barra Vegetal Amazonian Phebo Cartucho 90g",
         "ean_value": "7896512909732",
@@ -12133,6 +12127,12 @@
         "Product Name": "Sabonete em Barra Vegetal Raiz do Oriente Phebo Cartucho 90g",
         "ean_value": "7896512918536",
         "Price": 4.99
+    },
+    {
+        "brand": "Colgate",
+        "Product Name": "Enxaguante Bucal Zero Álcool Ice Colgate Plax Frasco 60ml",
+        "ean_value": "7891024136089",
+        "Price": 4.49
     },
     {
         "brand": "Diversos",
@@ -12237,16 +12237,16 @@
         "Price": 39.9
     },
     {
-        "brand": "Listerine",
-        "Product Name": "Enxaguante Bucal Antisséptico Zero Álcool Hortelã Suave Listerine Cool Mint Frasco 1L Leve Mais Pague Menos",
-        "ean_value": "7702031098287",
-        "Price": 39.9
-    },
-    {
         "brand": "Johnson & Johnson",
         "Product Name": "Cotonete Flexíveis Johnson & Johnson 75 Unidades",
         "ean_value": "7891010560737",
         "Price": 7.99
+    },
+    {
+        "brand": "Listerine",
+        "Product Name": "Enxaguante Bucal Antisséptico Zero Álcool Hortelã Suave Listerine Cool Mint Frasco 1L Leve Mais Pague Menos",
+        "ean_value": "7702031098287",
+        "Price": 39.9
     },
     {
         "brand": "Eudora",
@@ -12340,12 +12340,6 @@
         "brand": "sem marca"
     },
     {
-        "brand": "Pampers",
-        "Product Name": "Fralda Descartável Infantil Pampers Confort Sec XXG Pacote 52 Unidades Leve Mais Pague Menos",
-        "ean_value": "7500435205238",
-        "Price": 99.9
-    },
-    {
         "brand": "Colgate",
         "Product Name": "Enxaguante Bucal Carvão Zero Álcool Colgate Luminous White Frasco 500ml",
         "ean_value": "7509546666983",
@@ -12383,15 +12377,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Fralda Descartável Pampers M Premium Care 34 Unidades",
-        "ean_value": "7500435132367",
-        "Price": 79.9
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Sabonete Líquido Terra Brasilis Argan 500ml",
         "ean_value": "7898472920604",
         "Price": 22.9
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Fralda Descartável Pampers M Premium Care 34 Unidades",
+        "ean_value": "7500435132367",
+        "Price": 79.9
     },
     {
         "brand": "Diversos",
@@ -12580,23 +12574,17 @@
         "Price": 27.9
     },
     {
-        "Product Name": "não encontrado",
-        "ean_value": "não encontrado",
-        "Price": 0,
-        "ListPrice": 0,
-        "brand": "sem marca"
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Protetor Diário sem Abas Carefree TodoDia Pacote 40 Unidades Embalagem Econômica",
         "ean_value": "7891010039783",
         "Price": 20.9
     },
     {
-        "brand": "Johnson's Baby",
-        "Product Name": "Shampoo Bebê de Glicerina Johnson's Baby Frasco 400ml",
-        "ean_value": "7891010800048",
-        "Price": 33.9
+        "Product Name": "não encontrado",
+        "ean_value": "não encontrado",
+        "Price": 0,
+        "ListPrice": 0,
+        "brand": "sem marca"
     },
     {
         "brand": "Diversos",
@@ -12827,13 +12815,6 @@
         "Price": 34.9
     },
     {
-        "Product Name": "não encontrado",
-        "ean_value": "não encontrado",
-        "Price": 0,
-        "ListPrice": 0,
-        "brand": "sem marca"
-    },
-    {
         "brand": "Jacob's Creek",
         "Product Name": "Absorvente Plenitud Femme Ultra Moderado 8 Unidades",
         "ean_value": "7794626003011",
@@ -12844,6 +12825,13 @@
         "Product Name": "Máscara Tripla Filtragem 50 Unidades",
         "ean_value": "7899973707503",
         "Price": 24.9
+    },
+    {
+        "Product Name": "não encontrado",
+        "ean_value": "não encontrado",
+        "Price": 0,
+        "ListPrice": 0,
+        "brand": "sem marca"
     },
     {
         "brand": "Diversos",
@@ -12871,6 +12859,12 @@
     },
     {
         "brand": "Diversos",
+        "Product Name": "Sabonete Líquido de Glicerina Lavanda Granado Terrapeutics Frasco 300ml",
+        "ean_value": "7896512922458",
+        "Price": 28.99
+    },
+    {
+        "brand": "Diversos",
         "Product Name": "Sabonete em Barra Glicerinado Johnson's Baby Caixa 80g",
         "ean_value": "7891010035976",
         "Price": 7.69
@@ -12889,21 +12883,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Absorvente sem Abas Extra Suave Intimus Tripla Proteção Pacote 8 Unidades",
-        "ean_value": "7896007540600",
-        "Price": 7.29
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Sabonete Líquido de Glicerina Lavanda Granado Terrapeutics Frasco 300ml",
-        "ean_value": "7896512922458",
-        "Price": 28.99
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Condicionador Castanha do Brasil Granado 180 mL",
         "ean_value": "7896512910790",
         "Price": 30.9
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Absorvente sem Abas Extra Suave Intimus Tripla Proteção Pacote 8 Unidades",
+        "ean_value": "7896007540600",
+        "Price": 7.29
     },
     {
         "brand": "Diversos",
@@ -13074,13 +13062,6 @@
         "Price": 23.9
     },
     {
-        "Product Name": "não encontrado",
-        "ean_value": "não encontrado",
-        "Price": 0,
-        "ListPrice": 0,
-        "brand": "sem marca"
-    },
-    {
         "brand": "Mili",
         "Product Name": "Fralda Descartável Mili Love & Care XXG 20 Unidades",
         "ean_value": "7896104994023",
@@ -13091,6 +13072,13 @@
         "Product Name": "Fralda Descartável Infantil Roupinha Huggies Natural Care XG Pacote 56 Unidades",
         "ean_value": "7896007552719",
         "Price": 79.9
+    },
+    {
+        "Product Name": "não encontrado",
+        "ean_value": "não encontrado",
+        "Price": 0,
+        "ListPrice": 0,
+        "brand": "sem marca"
     },
     {
         "brand": "Mili",
@@ -13321,13 +13309,6 @@
         "Price": 14.99
     },
     {
-        "Product Name": "não encontrado",
-        "ean_value": "não encontrado",
-        "Price": 0,
-        "ListPrice": 0,
-        "brand": "sem marca"
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Fralda Descartável Infantil Pampers Confort Sec M Pacote 70un",
         "ean_value": "7500435106665",
@@ -13338,6 +13319,13 @@
         "Product Name": "Lenço Umedecido Cheirinho de Bebê Pampers Pacote 48 Unidades",
         "ean_value": "4015400763697",
         "Price": 19.99
+    },
+    {
+        "Product Name": "não encontrado",
+        "ean_value": "não encontrado",
+        "Price": 0,
+        "ListPrice": 0,
+        "brand": "sem marca"
     },
     {
         "brand": "Diversos",
@@ -13568,13 +13556,6 @@
         "Price": 28.75
     },
     {
-        "Product Name": "não encontrado",
-        "ean_value": "não encontrado",
-        "Price": 0,
-        "ListPrice": 0,
-        "brand": "sem marca"
-    },
-    {
         "brand": "Rexona",
         "Product Name": "Desodorante Rexona Clinical Stick Women 48 g",
         "ean_value": "79400052926",
@@ -13585,6 +13566,13 @@
         "Product Name": "Antitranspirante Aerossol Nivea Carvão Ativado Men Deep 2 Unidades 150ml Cada Leve Mais Pague Menos",
         "ean_value": "4005900905956",
         "Price": 25.8
+    },
+    {
+        "Product Name": "não encontrado",
+        "ean_value": "não encontrado",
+        "Price": 0,
+        "ListPrice": 0,
+        "brand": "sem marca"
     },
     {
         "brand": "Colgate",
@@ -13719,6 +13707,12 @@
         "Price": 79.9
     },
     {
+        "brand": "Pampers",
+        "Product Name": "Fralda Descartável Infantil Pampers Confort Sec XXG Pacote 52 Unidades Leve Mais Pague Menos",
+        "ean_value": "7500435205238",
+        "Price": 99.9
+    },
+    {
         "brand": "Dove",
         "Product Name": "Kit Shampoo 400ml + Condicionador 200ml Dove Nutritive Solutions Hidratação Intensa",
         "ean_value": "7891150056558",
@@ -13759,6 +13753,12 @@
         "Product Name": "Creme Dental Sensodyne Repair & Protect Caixa 100g",
         "ean_value": "7896015525583",
         "Price": 27.9
+    },
+    {
+        "brand": "Johnson's Baby",
+        "Product Name": "Shampoo Bebê de Glicerina Johnson's Baby Frasco 400ml",
+        "ean_value": "7891010800048",
+        "Price": 33.9
     },
     {
         "brand": "Sorriso",
@@ -13888,12 +13888,6 @@
         "Price": 13.99
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Tomate Italiano Centenário Krupa Bandeja 450g",
-        "ean_value": "7898928520020",
-        "Price": 7.49
-    },
-    {
         "brand": "Omega",
         "Product Name": "Banana Prata kg",
         "ean_value": "2249",
@@ -13922,6 +13916,12 @@
         "Product Name": "Pêssego Nacional kg",
         "ean_value": "2334",
         "Price": 6.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Tomate Italiano Centenário Krupa Bandeja 450g",
+        "ean_value": "7898928520020",
+        "Price": 7.49
     },
     {
         "brand": "Omega",
@@ -13954,16 +13954,16 @@
         "Price": 10.99
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Mamão Hawai Papaya kg",
-        "ean_value": "22295",
-        "Price": 13.99
-    },
-    {
         "brand": "Festval",
         "Product Name": "Salada de Frutas Festval 400g",
         "ean_value": "33053240",
         "Price": 14.9
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Mamão Hawai Papaya kg",
+        "ean_value": "22295",
+        "Price": 13.99
     },
     {
         "brand": "Festval",
@@ -13990,16 +13990,16 @@
         "Price": 6.99
     },
     {
-        "brand": "Festval",
-        "Product Name": "Figo Roxo 300g",
-        "ean_value": "7898128490017",
-        "Price": 7.99
-    },
-    {
         "brand": "Omega",
         "Product Name": "Maçã Gala kg",
         "ean_value": "6342",
         "Price": 13.99
+    },
+    {
+        "brand": "Festval",
+        "Product Name": "Figo Roxo 300g",
+        "ean_value": "7898128490017",
+        "Price": 7.99
     },
     {
         "brand": "Mamma Bia",
@@ -14069,16 +14069,16 @@
         "brand": "sem marca"
     },
     {
-        "brand": "Mamma Bia",
-        "Product Name": "Uva Passa Branca Africana Mamma Bia 150g",
-        "ean_value": "33065335",
-        "Price": 8.99
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Laranja Importada kg",
         "ean_value": "1617",
         "Price": 18.99
+    },
+    {
+        "brand": "Mamma Bia",
+        "Product Name": "Uva Passa Branca Africana Mamma Bia 150g",
+        "ean_value": "33065335",
+        "Price": 8.99
     },
     {
         "brand": "Mamma Bia",
@@ -14154,15 +14154,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Pimentão Vermelho kg",
-        "ean_value": "2314",
-        "Price": 19.99
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Abobrinha Verde Bertolin 400g",
         "ean_value": "7898342580136",
         "Price": 9.49
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Pimentão Vermelho kg",
+        "ean_value": "2314",
+        "Price": 19.99
     },
     {
         "brand": "Bertolin",
@@ -14171,22 +14171,28 @@
         "Price": 7.49
     },
     {
-        "brand": "Strapasson",
-        "Product Name": "Rúcula Hidropônica Strapasson 300g Rúcula Hidripônica Strapasson 300g",
-        "ean_value": "7898092940044",
-        "Price": 5.99
-    },
-    {
         "brand": "Omega",
         "Product Name": "Kiwi Importado kg",
         "ean_value": "22012",
         "Price": 29.99
     },
     {
+        "brand": "Strapasson",
+        "Product Name": "Rúcula Hidropônica Strapasson 300g Rúcula Hidripônica Strapasson 300g",
+        "ean_value": "7898092940044",
+        "Price": 5.99
+    },
+    {
         "brand": "Diversos",
         "Product Name": "Brócolis Strapasson 300GR",
         "ean_value": "7898092945018",
         "Price": 10.49
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Alface Americana Orgânicos do Sul 250g",
+        "ean_value": "7898942486029",
+        "Price": 8.99
     },
     {
         "brand": "Diversos",
@@ -14303,17 +14309,23 @@
         "Price": 10.59
     },
     {
+        "Product Name": "não encontrado",
+        "ean_value": "não encontrado",
+        "Price": 0,
+        "ListPrice": 0,
+        "brand": "sem marca"
+    },
+    {
         "brand": "Bertolin",
         "Product Name": "Tomate Sweet Heaven Bertolin 300g",
         "ean_value": "7898342580655",
         "Price": 13.99
     },
     {
-        "Product Name": "não encontrado",
-        "ean_value": "não encontrado",
-        "Price": 0,
-        "ListPrice": 0,
-        "brand": "sem marca"
+        "brand": "Diversos",
+        "Product Name": "Brócolis Orgânicos Do Sul 250G",
+        "ean_value": "7898942486043",
+        "Price": 9.89
     },
     {
         "brand": "Bertolin",
@@ -14371,15 +14383,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Salsinha Hidropônica Strapasson 150g",
-        "ean_value": "7898092940020",
-        "Price": 5.85
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Abacaxi Descascado 500g",
         "ean_value": "33330778",
         "Price": 12.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Salsinha Hidropônica Strapasson 150g",
+        "ean_value": "7898092940020",
+        "Price": 5.85
     },
     {
         "brand": "Orgânicos do Sul",
@@ -14449,9 +14461,21 @@
     },
     {
         "brand": "Diversos",
+        "Product Name": "Aipim Descascado Citrus 1KG",
+        "ean_value": "7898150730013",
+        "Price": 9.98
+    },
+    {
+        "brand": "Diversos",
         "Product Name": "Alface Crespa e Tomate 60g",
         "ean_value": "33274171",
         "Price": 3.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "ABOBRINHA VERDE KG",
+        "ean_value": "2240",
+        "Price": 6.99
     },
     {
         "brand": "Strapasson",
@@ -14532,6 +14556,13 @@
         "Price": 9.39
     },
     {
+        "Product Name": "não encontrado",
+        "ean_value": "não encontrado",
+        "Price": 0,
+        "ListPrice": 0,
+        "brand": "sem marca"
+    },
+    {
         "brand": "Diversos",
         "Product Name": "Manjericão Aroma & Sabor Bandeja 30GR",
         "ean_value": "7898959807053",
@@ -14556,11 +14587,10 @@
         "Price": 5.99
     },
     {
-        "Product Name": "não encontrado",
-        "ean_value": "não encontrado",
-        "Price": 0,
-        "ListPrice": 0,
-        "brand": "sem marca"
+        "brand": "Aroma & Sabor",
+        "Product Name": "Tomilho Aroma & Sabor Bandeja 30g",
+        "ean_value": "7898959807084",
+        "Price": 5.59
     },
     {
         "brand": "Aroma & Sabor",
@@ -14629,12 +14659,6 @@
         "Price": 19.99
     },
     {
-        "brand": "Diversos",
-        "Product Name": "ABOBRINHA VERDE KG",
-        "ean_value": "2240",
-        "Price": 6.99
-    },
-    {
         "brand": "Label Rouge",
         "Product Name": "Ovos Label Rouge Caipira 20 unidade",
         "ean_value": "7898083070880",
@@ -14654,9 +14678,27 @@
     },
     {
         "brand": "Diversos",
+        "Product Name": "Strapasson Salada Italiano 200 g",
+        "ean_value": "7898092945919",
+        "Price": 10.99
+    },
+    {
+        "brand": "Orgânica",
+        "Product Name": "Salada Alface Americana Rio de Una 200g",
+        "ean_value": "7898059851000",
+        "Price": 13.89
+    },
+    {
+        "brand": "Diversos",
         "Product Name": "Pimentão Amarelo kg",
         "ean_value": "2311",
         "Price": 19.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "RÚCULA HIDROPÔNICA CHaCARA BERTOLIN D+",
+        "ean_value": "7898342580563",
+        "Price": 3.59
     },
     {
         "brand": "Label Rouge",
@@ -14683,10 +14725,10 @@
         "Price": 11.98
     },
     {
-        "brand": "Orgânica",
-        "Product Name": "Salada Alface Americana Rio de Una 200g",
-        "ean_value": "7898059851000",
-        "Price": 13.89
+        "brand": "Diversos",
+        "Product Name": "Morango Bandeja 500g",
+        "ean_value": "7897574107258",
+        "Price": 22.99
     },
     {
         "brand": "Diversos",
@@ -14705,12 +14747,6 @@
         "Product Name": "Ovos Top Eggs Galinhas Livres Branco 20 Unidades",
         "ean_value": "602883098176",
         "Price": 25.99
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Alface Americana Orgânicos do Sul 250g",
-        "ean_value": "7898942486029",
-        "Price": 8.99
     },
     {
         "brand": "Diversos",
@@ -14737,12 +14773,6 @@
         "Price": 10.89
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Brócolis Orgânicos Do Sul 250G",
-        "ean_value": "7898942486043",
-        "Price": 9.89
-    },
-    {
         "brand": "Orgânicos do Sul",
         "Product Name": "Espinafre Orgânicos do Sul 200g",
         "ean_value": "7898942486470",
@@ -14753,12 +14783,6 @@
         "Product Name": "Ovos Top Eggs Vermelhos Galinhas Livres 20 Unidades",
         "ean_value": "602883098169",
         "Price": 25.99
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Aipim Descascado Citrus 1KG",
-        "ean_value": "7898150730013",
-        "Price": 9.98
     },
     {
         "brand": "Diversos",
@@ -14779,10 +14803,11 @@
         "Price": 5.59
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Manjericão Aroma & Sabor Bandeja 30GR",
-        "ean_value": "7898959807053",
-        "Price": 5.59
+        "Product Name": "não encontrado",
+        "ean_value": "não encontrado",
+        "Price": 0,
+        "ListPrice": 0,
+        "brand": "sem marca"
     },
     {
         "brand": "Strapasson",
@@ -14801,13 +14826,6 @@
         "Product Name": "Alface Lisa Premier Chácara Bertolin 150g",
         "ean_value": "7898342580600",
         "Price": 10.99
-    },
-    {
-        "Product Name": "não encontrado",
-        "ean_value": "não encontrado",
-        "Price": 0,
-        "ListPrice": 0,
-        "brand": "sem marca"
     },
     {
         "brand": "Diversos",
@@ -14895,21 +14913,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Strapasson Salada Italiano 200 g",
-        "ean_value": "7898092945919",
-        "Price": 10.99
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Quiabo Bertolin 250 g",
         "ean_value": "7898342580464",
         "Price": 7.99
     },
     {
         "brand": "Diversos",
-        "Product Name": "RÚCULA HIDROPÔNICA CHaCARA BERTOLIN D+",
-        "ean_value": "7898342580563",
-        "Price": 3.59
+        "Product Name": "Alface Roxa Unidade",
+        "ean_value": "31108928",
+        "Price": 3.89
     },
     {
         "brand": "Mantiqueira Brasil",
@@ -14946,12 +14958,6 @@
         "Product Name": "Agrião Hidrocenter Hidropônico Unidade",
         "ean_value": "7898237610061",
         "Price": 5.79
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Alface Roxa Unidade",
-        "ean_value": "31108928",
-        "Price": 3.89
     },
     {
         "brand": "Diversos",
@@ -15000,12 +15006,6 @@
         "Product Name": "Couve-flor Percicoti 400g",
         "ean_value": "7898186221059",
         "Price": 8.39
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Morango Bandeja 500g",
-        "ean_value": "7897574107258",
-        "Price": 22.99
     },
     {
         "brand": "Diversos",
@@ -15272,6 +15272,12 @@
         "Price": 9.98
     },
     {
+        "brand": "Vergani",
+        "Product Name": "Bombom Italiano Vergani Recheio Creme de Pistache 215g",
+        "ean_value": "8002325572400",
+        "Price": 49.9
+    },
+    {
         "brand": "Mamma Bia",
         "Product Name": "Nhoque Italiano Mamma Bia Integral 500g",
         "ean_value": "7908073100197",
@@ -15290,17 +15296,17 @@
         "Price": 27.9
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Molho de Tomate Pimenta Chilli De Cecco Vidro 400g",
-        "ean_value": "8001250219145",
-        "Price": 22.9
-    },
-    {
         "Product Name": "não encontrado",
         "ean_value": "não encontrado",
         "Price": 0,
         "ListPrice": 0,
         "brand": "sem marca"
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Molho de Tomate Pimenta Chilli De Cecco Vidro 400g",
+        "ean_value": "8001250219145",
+        "Price": 22.9
     },
     {
         "brand": "St. Dalfour",
@@ -15321,16 +15327,16 @@
         "Price": 27.9
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Snack de Trigo Páprica e Tomate Maretti Bruschette Pacote 85g",
-        "ean_value": "3800205875307",
-        "Price": 6.99
-    },
-    {
         "brand": "St. Dalfour",
         "Product Name": "Geleia St. Dalfour Framboesa 284g",
         "ean_value": "84380957741",
         "Price": 27.9
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Snack de Trigo Páprica e Tomate Maretti Bruschette Pacote 85g",
+        "ean_value": "3800205875307",
+        "Price": 6.99
     },
     {
         "brand": "Frontera",
@@ -15375,12 +15381,6 @@
         "Price": 17.98
     },
     {
-        "brand": "Vergani",
-        "Product Name": "Bombom Italiano Vergani Recheio Creme de Pistache 215g",
-        "ean_value": "8002325572400",
-        "Price": 49.9
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Azeite de Oliva Extra Virgem Italiano Paganini Vidro 250ml",
         "ean_value": "7898152990019",
@@ -15399,6 +15399,12 @@
         "Price": 27.9
     },
     {
+        "brand": "Diversos",
+        "Product Name": "Azeite Oliva Extra Virgem Português Quinta Nova do Douro 500ml",
+        "ean_value": "5601941002082",
+        "Price": 42.9
+    },
+    {
         "brand": "Lindt",
         "Product Name": "Chocolate Lindt Lindor Trufas Ao Leite 3 unidades 37g",
         "ean_value": "8003340098869",
@@ -15409,12 +15415,6 @@
         "Product Name": "Macarrão Italiano Mamma Bia Tagliatelle 500g",
         "ean_value": "7898953924114",
         "Price": 16.98
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Azeite Oliva Extra Virgem Português Quinta Nova do Douro 500ml",
-        "ean_value": "5601941002082",
-        "Price": 42.9
     },
     {
         "brand": "Milka",
@@ -16019,16 +16019,16 @@
         "Price": 12.99
     },
     {
-        "brand": "Toblerone",
-        "Product Name": "Chocolate Toblerone White 100g",
-        "ean_value": "7614500010310",
-        "Price": 13.9
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Molho Italiano Filippo Berio Pesto Ricota 190g",
         "ean_value": "8002210129245",
         "Price": 19.9
+    },
+    {
+        "brand": "Toblerone",
+        "Product Name": "Chocolate Toblerone White 100g",
+        "ean_value": "7614500010310",
+        "Price": 13.9
     },
     {
         "brand": "La Cumparsita",
@@ -16141,15 +16141,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Macarrão De Cecco Fusilli 500 g",
-        "ean_value": "8001250120342",
-        "Price": 12.99
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Massa para Lasanha Paganini Caixa 200g",
         "ean_value": "7898152997018",
         "Price": 9.9
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Macarrão De Cecco Fusilli 500 g",
+        "ean_value": "8001250120342",
+        "Price": 12.99
     },
     {
         "brand": "Diversos",
@@ -16417,16 +16417,16 @@
         "Price": 17.9
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Pepinos Ale Kuhne 1 U",
-        "ean_value": "40122878",
-        "Price": 39.9
-    },
-    {
         "brand": "Twinings",
         "Product Name": "Chá Lady Grey Twinings Classics Caixa 10 Unidades 20g",
         "ean_value": "70177197377",
         "Price": 21.9
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Pepinos Ale Kuhne 1 U",
+        "ean_value": "40122878",
+        "Price": 39.9
     },
     {
         "brand": "Diversos",
@@ -16519,16 +16519,16 @@
         "Price": 27.99
     },
     {
-        "brand": "Campofilone",
-        "Product Name": "Macarrão Italiano Campofilone Tagliatelle 200g",
-        "ean_value": "8014311100351",
-        "Price": 29.9
-    },
-    {
         "brand": "Gastone Lago",
         "Product Name": "Mini Wafer Lago Party Creme de Limão 125g",
         "ean_value": "8004800003430",
         "Price": 12.98
+    },
+    {
+        "brand": "Campofilone",
+        "Product Name": "Macarrão Italiano Campofilone Tagliatelle 200g",
+        "ean_value": "8014311100351",
+        "Price": 29.9
     },
     {
         "Product Name": "não encontrado",
@@ -16670,16 +16670,16 @@
         "Price": 11.9
     },
     {
-        "brand": "Kroon",
-        "Product Name": "Queijo Holandês Emmental Kroon 150g",
-        "ean_value": "7898693870399",
-        "Price": 27.9
-    },
-    {
         "brand": "Hungry Jack",
         "Product Name": "Xarope Hungry Jack Original Maple Syrup 428ml",
         "ean_value": "13300928073",
         "Price": 59.9
+    },
+    {
+        "brand": "Kroon",
+        "Product Name": "Queijo Holandês Emmental Kroon 150g",
+        "ean_value": "7898693870399",
+        "Price": 27.9
     },
     {
         "brand": "Monviso",
@@ -16748,6 +16748,12 @@
         "Price": 49.9
     },
     {
+        "brand": "Hamlet",
+        "Product Name": "Chocolate Belga Hamlet Caramel Mini's Gold 175g",
+        "ean_value": "5400265041568",
+        "Price": 29.9
+    },
+    {
         "brand": "Novella",
         "Product Name": "Cebola Italiana Borettane Novella Vinagre Balsâmico 290g",
         "ean_value": "8001364343101",
@@ -16772,17 +16778,17 @@
         "Price": 32.98
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Xarope de Bordo Maple Syrup 250ml",
-        "ean_value": "7898246068006",
-        "Price": 89.9
-    },
-    {
         "Product Name": "não encontrado",
         "ean_value": "não encontrado",
         "Price": 0,
         "ListPrice": 0,
         "brand": "sem marca"
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Xarope de Bordo Maple Syrup 250ml",
+        "ean_value": "7898246068006",
+        "Price": 89.9
     },
     {
         "brand": "Eatnlive",
@@ -16867,12 +16873,6 @@
         "Product Name": "Chocolate Belga Hamlet Terracota Sortidos 250g",
         "ean_value": "5400265039848",
         "Price": 49.9
-    },
-    {
-        "brand": "Hamlet",
-        "Product Name": "Chocolate Belga Hamlet Caramel Mini's Gold 175g",
-        "ean_value": "5400265041568",
-        "Price": 29.9
     },
     {
         "brand": "Diversos",
@@ -17640,16 +17640,16 @@
         "Price": 23.99
     },
     {
-        "brand": "Personal",
-        "Product Name": "Papel Higiênico Personal Vip Neutro Folha Tripla Leve 16 Pague 15",
-        "ean_value": "7896110011028",
-        "Price": 22.9
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Esponja Limpeza Pesada Scotch-Brite Leve 4 Pague 3 Unidades",
         "ean_value": "7891040222476",
         "Price": 6.89
+    },
+    {
+        "brand": "Personal",
+        "Product Name": "Papel Higiênico Personal Vip Neutro Folha Tripla Leve 16 Pague 15",
+        "ean_value": "7896110011028",
+        "Price": 22.9
     },
     {
         "brand": "OMO",
@@ -17706,6 +17706,12 @@
         "Price": 25.55
     },
     {
+        "brand": "Finish",
+        "Product Name": "Detergente Tablete para Máquina de Lavar Louças Finish Powerball All In 1 Pouch 208g 13 Unidades",
+        "ean_value": "7891035024368",
+        "Price": 29.99
+    },
+    {
         "brand": "OMO",
         "Product Name": "Tira-Manchas Ultra Espuma Omo Extra Poder Frasco 135ml",
         "ean_value": "7891150065734",
@@ -17716,12 +17722,6 @@
         "Product Name": "Lava-Roupas Líquido Lavanda Omo Sachê 900ml Refil Econômico",
         "ean_value": "7891150078413",
         "Price": 18.99
-    },
-    {
-        "brand": "Finish",
-        "Product Name": "Detergente Tablete para Máquina de Lavar Louças Finish Powerball All In 1 Pouch 208g 13 Unidades",
-        "ean_value": "7891035024368",
-        "Price": 29.99
     },
     {
         "brand": "OMO",
@@ -17803,16 +17803,16 @@
         "Price": 23.99
     },
     {
-        "brand": "Da Ilha",
-        "Product Name": "Álcool Hospitalar da Ilha 70 ° INPM Bactericida 1L",
-        "ean_value": "7896017200471",
-        "Price": 14.99
-    },
-    {
         "brand": "Personal",
         "Product Name": "Papel Higiênico Folha Dupla Neutro Personal Vip Kilométrico 50m Pacote 20 Unidades Leve Mais Pague Menos",
         "ean_value": "7896110008011",
         "Price": 49.9
+    },
+    {
+        "brand": "Da Ilha",
+        "Product Name": "Álcool Hospitalar da Ilha 70 ° INPM Bactericida 1L",
+        "ean_value": "7896017200471",
+        "Price": 14.99
     },
     {
         "brand": "Sétima Geração",
@@ -18098,6 +18098,12 @@
         "Price": 21.99
     },
     {
+        "brand": "OMO",
+        "Product Name": "Lava-Roupas Pó Omo Lavagem Perfeita Sanitiza & Higieniza Caixa 1,6kg",
+        "ean_value": "7891150072152",
+        "Price": 27.99
+    },
+    {
         "brand": "Cif",
         "Product Name": "Limpador Gel Multiuso Cif Squeeze 475g",
         "ean_value": "7891150073517",
@@ -18126,12 +18132,6 @@
         "Product Name": "Tira-Manchas em Pó Roupas Brancas Omo Pacote 380g Refil Embalagem Econômica",
         "ean_value": "7891150062108",
         "Price": 21.99
-    },
-    {
-        "brand": "OMO",
-        "Product Name": "Lava-Roupas Pó Omo Lavagem Perfeita Sanitiza & Higieniza Caixa 1,6kg",
-        "ean_value": "7891150072152",
-        "Price": 27.99
     },
     {
         "brand": "Ola",
@@ -18514,16 +18514,16 @@
         "brand": "sem marca"
     },
     {
-        "brand": "Veja",
-        "Product Name": "Limpador Perfumado Lavanda da França Veja Perfumes Frasco 1L",
-        "ean_value": "7891035249013",
-        "Price": 11.99
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Desinfetante Lysoform Bruto Original 1L",
         "ean_value": "7897000800548",
         "Price": 18.99
+    },
+    {
+        "brand": "Veja",
+        "Product Name": "Limpador Perfumado Lavanda da França Veja Perfumes Frasco 1L",
+        "ean_value": "7891035249013",
+        "Price": 11.99
     },
     {
         "brand": "Veja",
@@ -18592,6 +18592,12 @@
         "Price": 17.99
     },
     {
+        "brand": "Diversos",
+        "Product Name": "Saponáceo Cremoso Multiuso Clássico Sapólio Radium Squeeze 250ml",
+        "ean_value": "7891022861044",
+        "Price": 11.99
+    },
+    {
         "brand": "Ypê",
         "Product Name": "Lava-Roupas Pó Concentrado Ypê Power Act Caixa 800g",
         "ean_value": "7896098905081",
@@ -18602,12 +18608,6 @@
         "Product Name": "Lustra Móveis Destac Lavanda 500 mL",
         "ean_value": "7891035116537",
         "Price": 15.99
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Saponáceo Cremoso Multiuso Clássico Sapólio Radium Squeeze 250ml",
-        "ean_value": "7891022861044",
-        "Price": 11.99
     },
     {
         "brand": "Ypê",
@@ -18688,16 +18688,16 @@
         "Price": 7.99
     },
     {
-        "brand": "Bom Ar",
-        "Product Name": "Difusor de Ambiente Elétrico Lavanda e Gerânio Bom Ar Caixa Grátis Refil 16ml",
-        "ean_value": "7891035918001",
-        "Price": 26.99
-    },
-    {
         "brand": "Vanish",
         "Product Name": "Tira Manchas em Pó Vanish Multi Power Oxi Action 400g para Roupas Coloridas Refil Econômico",
         "ean_value": "7891035051272",
         "Price": 19.99
+    },
+    {
+        "brand": "Bom Ar",
+        "Product Name": "Difusor de Ambiente Elétrico Lavanda e Gerânio Bom Ar Caixa Grátis Refil 16ml",
+        "ean_value": "7891035918001",
+        "Price": 26.99
     },
     {
         "brand": "Bravo",
@@ -18791,16 +18791,16 @@
         "Price": 18.99
     },
     {
-        "brand": "Unik",
-        "Product Name": "Detergente com Secante e Abrilhantador em Pó para Máquina de Lavar Louça Unik sem Fragrância 1kg",
-        "ean_value": "7896188602005",
-        "Price": 42.9
-    },
-    {
         "brand": "Wap",
         "Product Name": "Eliminador de Odores e Limpador de Pegadas Wap 500ml",
         "ean_value": "7899870101626",
         "Price": 29.99
+    },
+    {
+        "brand": "Unik",
+        "Product Name": "Detergente com Secante e Abrilhantador em Pó para Máquina de Lavar Louça Unik sem Fragrância 1kg",
+        "ean_value": "7896188602005",
+        "Price": 42.9
     },
     {
         "brand": "Diversos",
@@ -19033,15 +19033,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Amaciante de Roupa Downy Concentrado Brisa de Verão  1L",
-        "ean_value": "7506339332643",
-        "Price": 28.99
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Limpador Desengordurante Cozinha Limão Veja Sachê 400ml Refil Econômico",
         "ean_value": "7891035285097",
         "Price": 11.79
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Amaciante de Roupa Downy Concentrado Brisa de Verão  1L",
+        "ean_value": "7506339332643",
+        "Price": 28.99
     },
     {
         "brand": "Veja",
@@ -19520,10 +19520,10 @@
         "Price": 49.95
     },
     {
-        "brand": "Vanish",
-        "Product Name": "Tira Manchas em Gel Vanish Crystal White 1,5L para Roupas Brancas",
-        "ean_value": "7891035040412",
-        "Price": 43.9
+        "brand": "Diversos",
+        "Product Name": "Aromatizante de Ambiente Spray Bambu Coala 120ml",
+        "ean_value": "7897744500858",
+        "Price": 15.99
     },
     {
         "brand": "Diversos",
@@ -19532,10 +19532,10 @@
         "Price": 15.99
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Aromatizante de Ambiente Spray Bambu Coala 120ml",
-        "ean_value": "7897744500858",
-        "Price": 15.99
+        "brand": "Vanish",
+        "Product Name": "Tira Manchas em Gel Vanish Crystal White 1,5L para Roupas Brancas",
+        "ean_value": "7891035040412",
+        "Price": 43.9
     },
     {
         "brand": "Bom Ar",
@@ -19677,6 +19677,12 @@
     },
     {
         "brand": "Diversos",
+        "Product Name": "Lava-Roupas em Pó Coco Bom Bril Mon Bijou Caixa 500g",
+        "ean_value": "7891022852288",
+        "Price": 21.99
+    },
+    {
+        "brand": "Diversos",
         "Product Name": "Neutralizador de Ambiente Lavanda Click Spray Air Wick Bom Ar Blister 12ml Cada 2 Unidades Grátis 50% de Desconto no 2° Refil",
         "ean_value": "7891035025280",
         "Price": 19.49
@@ -19698,12 +19704,6 @@
         "Product Name": "Neutralizador de Odores Campos de Lavanda Click Spray Bom Ar Blister 12ml cada Refil Leve 3 Pague 2",
         "ean_value": "7891035539527",
         "Price": 25.98
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Lava-Roupas em Pó Coco Bom Bril Mon Bijou Caixa 500g",
-        "ean_value": "7891022852288",
-        "Price": 21.99
     },
     {
         "brand": "Coquel",
@@ -20152,16 +20152,16 @@
         "Price": 3.78
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Café Torrado e Moído Extraforte Melitta Caixa 500g",
-        "ean_value": "7891021006934",
-        "Price": 13.48
-    },
-    {
         "brand": "Nestlé",
         "Product Name": "Farinha Láctea Nestlé Tradicional 360g",
         "ean_value": "7891000358764",
         "Price": 23.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Café Torrado e Moído Extraforte Melitta Caixa 500g",
+        "ean_value": "7891021006934",
+        "Price": 13.48
     },
     {
         "brand": "Nestlé",
@@ -20218,16 +20218,16 @@
         "Price": 5.98
     },
     {
-        "brand": "Garoto",
-        "Product Name": "Chocolate Ao Leite Garoto Tablete 80g",
-        "ean_value": "7891008123975",
-        "Price": 3.99
-    },
-    {
         "brand": "Nestlé",
         "Product Name": "Chocolate Alpino 195g",
         "ean_value": "7891000067253",
         "Price": 22.99
+    },
+    {
+        "brand": "Garoto",
+        "Product Name": "Chocolate Ao Leite Garoto Tablete 80g",
+        "ean_value": "7891008123975",
+        "Price": 3.99
     },
     {
         "brand": "Classic",
@@ -20363,16 +20363,16 @@
         "Price": 4.49
     },
     {
-        "brand": "Bonduelle",
-        "Product Name": "Milho Verde Natural Bonduelle 200g",
-        "ean_value": "3083681069518",
-        "Price": 6.98
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Farofa de Mandioca Cebola Yoki Pacote 200g",
         "ean_value": "7891095028993",
         "Price": 4.99
+    },
+    {
+        "brand": "Bonduelle",
+        "Product Name": "Milho Verde Natural Bonduelle 200g",
+        "ean_value": "3083681069518",
+        "Price": 6.98
     },
     {
         "brand": "Bonduelle",
@@ -20393,6 +20393,12 @@
         "Price": 21.99
     },
     {
+        "brand": "Diversos",
+        "Product Name": "Macarrão Com Ovos Spaguetti Todeschini 500GR",
+        "ean_value": "7896022205720",
+        "Price": 3.29
+    },
+    {
         "brand": "Nestlé",
         "Product Name": "Caldo Pó Legumes Maggi Caixa 35g 5 Unidades",
         "ean_value": "7891000310199",
@@ -20403,12 +20409,6 @@
         "Product Name": "Caldo Tablete Galinha Knorr Mais Sabor 12 Unidades Caixa 114g",
         "ean_value": "7894000000350",
         "Price": 5.98
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Macarrão Com Ovos Spaguetti Todeschini 500GR",
-        "ean_value": "7896022205720",
-        "Price": 3.29
     },
     {
         "brand": "Mamma Bia",
@@ -20429,6 +20429,12 @@
         "Price": 7.49
     },
     {
+        "brand": "Diversos",
+        "Product Name": "Amendoim Temperado Yoki Pacote 150g",
+        "ean_value": "7891095002153",
+        "Price": 4.49
+    },
+    {
         "brand": "Yoki",
         "Product Name": "Batata Palha Tradicional Yoki Sachê 105g Batata Palha Tradicional 105g",
         "ean_value": "7891095031115",
@@ -20439,12 +20445,6 @@
         "Product Name": "Chocolate Branco Garoto Biscoito Tablete 80g",
         "ean_value": "7891008124477",
         "Price": 3.99
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Amendoim Temperado Yoki Pacote 150g",
-        "ean_value": "7891095002153",
-        "Price": 4.49
     },
     {
         "brand": "Nestlé",
@@ -20490,16 +20490,16 @@
         "brand": "sem marca"
     },
     {
-        "brand": "Garoto",
-        "Product Name": "Chocolate Garoto Crocante Tablete 80g",
-        "ean_value": "7891008124071",
-        "Price": 3.99
-    },
-    {
         "brand": "St. Dalfour",
         "Product Name": "Geleia Laranja St. Dalfour Vidro 284g",
         "ean_value": "84380957949",
         "Price": 27.9
+    },
+    {
+        "brand": "Garoto",
+        "Product Name": "Chocolate Garoto Crocante Tablete 80g",
+        "ean_value": "7891008124071",
+        "Price": 3.99
     },
     {
         "brand": "Nestlé",
@@ -20592,16 +20592,16 @@
         "Price": 8.99
     },
     {
-        "brand": "Nestlé",
-        "Product Name": "Creme de Leite Nestlé Extra Cremoso 280g",
-        "ean_value": "7891000316849",
-        "Price": 15.99
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Batata Palha Extrafina Yoki Parmesão 100g",
         "ean_value": "7891095031177",
         "Price": 5.99
+    },
+    {
+        "brand": "Nestlé",
+        "Product Name": "Creme de Leite Nestlé Extra Cremoso 280g",
+        "ean_value": "7891000316849",
+        "Price": 15.99
     },
     {
         "brand": "Nestlé",
@@ -20616,16 +20616,16 @@
         "Price": 9.99
     },
     {
-        "brand": "Garoto",
-        "Product Name": "Chocolate Branco Garoto Tablete 80g",
-        "ean_value": "7891008125214",
-        "Price": 3.99
-    },
-    {
         "brand": "Coca-Cola",
         "Product Name": "Chá Leão Frutas Vermelhas 10 Unidades",
         "ean_value": "7891098041463",
         "Price": 12.99
+    },
+    {
+        "brand": "Garoto",
+        "Product Name": "Chocolate Branco Garoto Tablete 80g",
+        "ean_value": "7891008125214",
+        "Price": 3.99
     },
     {
         "brand": "Fini",
@@ -20652,12 +20652,6 @@
         "Price": 4.99
     },
     {
-        "brand": "Kitkat",
-        "Product Name": "Chocolate Kitkat Mini Moments Caramel 34,6g",
-        "ean_value": "7891000349724",
-        "Price": 3.99
-    },
-    {
         "brand": "Coca-Cola",
         "Product Name": "Chá Mate Original Matte Leão Caixa Embalagem Econômica 250g",
         "ean_value": "7891098038456",
@@ -20674,6 +20668,12 @@
         "Product Name": "Creme Cebola Knorr Pacote 60g",
         "ean_value": "7891150030596",
         "Price": 8.98
+    },
+    {
+        "brand": "Kitkat",
+        "Product Name": "Chocolate Kitkat Mini Moments Caramel 34,6g",
+        "ean_value": "7891000349724",
+        "Price": 3.99
     },
     {
         "brand": "Classic",
@@ -20712,12 +20712,6 @@
         "Price": 2.99
     },
     {
-        "brand": "Garoto",
-        "Product Name": "Chocolate GAROTO Castanha de Caju Tablete 80g",
-        "ean_value": "7891008124170",
-        "Price": 3.99
-    },
-    {
         "brand": "Nestlé",
         "Product Name": "Café Solúvel Nescafé Matinal 50g Nescafé Matinal Sachê     50g",
         "ean_value": "7891000315200",
@@ -20728,6 +20722,12 @@
         "Product Name": "Tempero Fondor Maggi Aves, Peixes, Legumes E Saladas Vidro 120g Tempero Maggi Fondor 120g",
         "ean_value": "7891000502105",
         "Price": 8.49
+    },
+    {
+        "brand": "Garoto",
+        "Product Name": "Chocolate GAROTO Castanha de Caju Tablete 80g",
+        "ean_value": "7891008124170",
+        "Price": 3.99
     },
     {
         "Product Name": "não encontrado",
@@ -20773,12 +20773,6 @@
         "Price": 4.99
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Tempero de Cebola Alho e Salsa Kitano 40g",
-        "ean_value": "7891095605170",
-        "Price": 5.98
-    },
-    {
         "brand": "Nestlé",
         "Product Name": "Mistura para Brownie Nestlé Chocolate 350g",
         "ean_value": "7891000338209",
@@ -20797,12 +20791,6 @@
         "Price": 7.99
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Cápsula 3 Corações Supremo 10 Unidades",
-        "ean_value": "7896005805008",
-        "Price": 14.99
-    },
-    {
         "brand": "Coca-Cola",
         "Product Name": "Chá Mate em Cápsula Original Matte Leão Caixa 30g 10 Unidades",
         "ean_value": "7891098041029",
@@ -20813,6 +20801,12 @@
         "Product Name": "Chá Preto Frutas Vermelhas Chá Leão Caixa 25g 10 Unidades",
         "ean_value": "7891098041395",
         "Price": 11.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Cápsula 3 Corações Supremo 10 Unidades",
+        "ean_value": "7896005805008",
+        "Price": 14.99
     },
     {
         "brand": "Nestlé",
@@ -20834,15 +20828,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Pipoca para Micro-Ondas Natural Sem Sal Yoki Pacote 100g",
-        "ean_value": "7891095100125",
-        "Price": 3.98
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Arroz Agulhinha Tio João 1KG",
         "ean_value": "7893500020110",
         "Price": 7.49
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Pipoca para Micro-Ondas Natural Sem Sal Yoki Pacote 100g",
+        "ean_value": "7891095100125",
+        "Price": 3.98
     },
     {
         "brand": "Diversos",
@@ -20864,15 +20858,21 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Farinha De Milho Flocada Kimilho Flocão Yoki 500g",
-        "ean_value": "7891095006878",
-        "Price": 4.98
+        "Product Name": "Tempero de Cebola Alho e Salsa Kitano 40g",
+        "ean_value": "7891095605170",
+        "Price": 5.98
     },
     {
         "brand": "Diversos",
         "Product Name": "Casquinha de Sorvete Barion Kasketes Caixa 75g 18 Unidades",
         "ean_value": "7896018211131",
         "Price": 5.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Farinha De Milho Flocada Kimilho Flocão Yoki 500g",
+        "ean_value": "7891095006878",
+        "Price": 4.98
     },
     {
         "brand": "Bombay",
@@ -20888,6 +20888,12 @@
     },
     {
         "brand": "Diversos",
+        "Product Name": "Macarrão Instantâneo Nissin Carne Miojo Lámen 85GR",
+        "ean_value": "7891079000205",
+        "Price": 2.79
+    },
+    {
+        "brand": "Diversos",
         "Product Name": "Sopa Individual Cremosa Aipim com Costela Vono Pacote 18g",
         "ean_value": "7891132009374",
         "Price": 3.99
@@ -20897,12 +20903,6 @@
         "Product Name": "Bala Fini Gelatina Tubes Tutti Frutti 80g",
         "ean_value": "7898279798185",
         "Price": 8.99
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Macarrão Instantâneo Nissin Carne Miojo Lámen 85GR",
-        "ean_value": "7891079000205",
-        "Price": 2.79
     },
     {
         "brand": "Aji-No-Moto",
@@ -20985,26 +20985,20 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Feijão Caldo Bom Carioca   1KG",
-        "ean_value": "7896273900313",
-        "Price": 8.98
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Açúcar União Refinado 1 kg",
         "ean_value": "7891910000197",
         "Price": 4.99
     },
     {
+        "brand": "Diversos",
+        "Product Name": "Feijão Caldo Bom Carioca   1KG",
+        "ean_value": "7896273900313",
+        "Price": 8.98
+    },
+    {
         "brand": "3 Corações",
         "Product Name": "Café em Cápsula Torrado e Moído Espresso Vibrante Tres Caixa 80g 10 Unidades",
         "ean_value": "7896005805015",
-        "Price": 14.99
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Cápsula 3 Corações Cappuccino Classic 10 Unidades",
-        "ean_value": "7896005805077",
         "Price": 14.99
     },
     {
@@ -21018,6 +21012,12 @@
         "Product Name": "Café Melitta Regiões Brasileiras Cerrado 250g",
         "ean_value": "7891021005609",
         "Price": 11.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Cápsula 3 Corações Cappuccino Classic 10 Unidades",
+        "ean_value": "7896005805077",
+        "Price": 14.99
     },
     {
         "brand": "Diversos",
@@ -21036,12 +21036,6 @@
         "Product Name": "Bala Fini Tubes Morango Cítrico 80g",
         "ean_value": "8410525146435",
         "Price": 8.99
-    },
-    {
-        "brand": "Bombay",
-        "Product Name": "Páprica Defumada Bombay Herbs & Spices Vidro 60g",
-        "ean_value": "7898453462017",
-        "Price": 39.9
     },
     {
         "brand": "Diversos",
@@ -21066,6 +21060,12 @@
         "Product Name": "Banha Frimesa Pote 450 G",
         "ean_value": "7896275921101",
         "Price": 7.89
+    },
+    {
+        "brand": "Bombay",
+        "Product Name": "Páprica Defumada Bombay Herbs & Spices Vidro 60g",
+        "ean_value": "7898453462017",
+        "Price": 39.9
     },
     {
         "brand": "Diversos",
@@ -21117,6 +21117,12 @@
     },
     {
         "brand": "Diversos",
+        "Product Name": "Açafrão Da Terra Kitano  50gr",
+        "ean_value": "7891095150359",
+        "Price": 8.98
+    },
+    {
+        "brand": "Diversos",
         "Product Name": "Chocolate Snickers Pacote 2 Unidades 78g",
         "ean_value": "7896423420326",
         "Price": 5.69
@@ -21132,12 +21138,6 @@
         "Product Name": "Macarrão Instantâneo Costela com Molho de Churrasco Nissin Cup Noodles Copo 68gr",
         "ean_value": "7891079013083",
         "Price": 5.99
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Açafrão Da Terra Kitano  50gr",
-        "ean_value": "7891095150359",
-        "Price": 8.98
     },
     {
         "brand": "Diversos",
@@ -21357,16 +21357,16 @@
         "Price": 6.99
     },
     {
-        "brand": "Anaconda",
-        "Product Name": "Farinha de Trigo Tipo 1 Anaconda Premium Pacote 1kg",
-        "ean_value": "7896419422013",
-        "Price": 5.98
-    },
-    {
         "brand": "Hellmann's",
         "Product Name": "Maionese Hellmann's Tradicional 500g",
         "ean_value": "7894000050034",
         "Price": 10.98
+    },
+    {
+        "brand": "Anaconda",
+        "Product Name": "Farinha de Trigo Tipo 1 Anaconda Premium Pacote 1kg",
+        "ean_value": "7896419422013",
+        "Price": 5.98
     },
     {
         "brand": "Nutella",
@@ -21387,16 +21387,16 @@
         "Price": 10.29
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Pepino Inteiro Hemmer 300g",
-        "ean_value": "7891031112304",
-        "Price": 15.98
-    },
-    {
         "brand": "Nescau",
         "Product Name": "Achocolatado Nescau Cilindro 370g",
         "ean_value": "7891000379691",
         "Price": 10.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Pepino Inteiro Hemmer 300g",
+        "ean_value": "7891031112304",
+        "Price": 15.98
     },
     {
         "brand": "Dolce Gusto",
@@ -21827,16 +21827,16 @@
         "Price": 4.99
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Bala Framboesa 7 Belo Pacote 100g",
-        "ean_value": "7891118025824",
-        "Price": 5.99
-    },
-    {
         "brand": "Nescafé",
         "Product Name": "Café Nescafé Gold Espresso Intensidade 8 Lata 100g",
         "ean_value": "7891000631713",
         "Price": 29.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Bala Framboesa 7 Belo Pacote 100g",
+        "ean_value": "7891118025824",
+        "Price": 5.99
     },
     {
         "brand": "Classic",
@@ -22038,16 +22038,16 @@
         "Price": 34.9
     },
     {
-        "brand": "Pinduca",
-        "Product Name": "Farinha de Mandioca Biju Pinduca 500g",
-        "ean_value": "7896015922054",
-        "Price": 6.99
-    },
-    {
         "brand": "CoffeeMais",
         "Product Name": "Café Coffee ++ Cerrado Mineiro Drip 10 unidades",
         "ean_value": "602883894556",
         "Price": 24.99
+    },
+    {
+        "brand": "Pinduca",
+        "Product Name": "Farinha de Mandioca Biju Pinduca 500g",
+        "ean_value": "7896015922054",
+        "Price": 6.99
     },
     {
         "brand": "Diversos",
@@ -22074,16 +22074,22 @@
         "Price": 34.9
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Carne Bovina Desfiada Vapza 400g",
-        "ean_value": "7897122601252",
-        "Price": 56.99
-    },
-    {
         "brand": "Aica",
         "Product Name": "Champignons Fatiados Aica  Sachê 100g",
         "ean_value": "7898000050063",
         "Price": 8.49
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Arroz Urbano Parborizado 1KG",
+        "ean_value": "7896038306053",
+        "Price": 4.98
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Carne Bovina Desfiada Vapza 400g",
+        "ean_value": "7897122601252",
+        "Price": 56.99
     },
     {
         "brand": "Nescafé",
@@ -22102,12 +22108,6 @@
         "Product Name": "Salgadinho de Batata Churrasco Pringles Tubo 109g",
         "ean_value": "7896004006406",
         "Price": 15.99
-    },
-    {
-        "brand": "Diversos",
-        "Product Name": "Arroz Urbano Parborizado 1KG",
-        "ean_value": "7896038306053",
-        "Price": 4.98
     },
     {
         "brand": "Galak",
@@ -22135,27 +22135,27 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Amendoim Elma Chips Ovinhos 170g",
-        "ean_value": "7892840814816",
-        "Price": 8.99
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Macarrão Instantâneo Tomate Suave Turma Da Mônica Nissin Miojo 85GR",
         "ean_value": "7891079001028",
         "Price": 2.89
     },
     {
         "brand": "Diversos",
-        "Product Name": "Farinha de Trigo Famiglia Venturelli  1KG",
-        "ean_value": "7896534400200",
-        "Price": 5.99
+        "Product Name": "Amendoim Elma Chips Ovinhos 170g",
+        "ean_value": "7892840814816",
+        "Price": 8.99
     },
     {
         "brand": "Nescau",
         "Product Name": "Cereal Matinal Nescau Cacau Extra 170g",
         "ean_value": "7891000372043",
         "Price": 11.99
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Farinha de Trigo Famiglia Venturelli  1KG",
+        "ean_value": "7896534400200",
+        "Price": 5.99
     },
     {
         "brand": "Diversos",
@@ -22206,10 +22206,10 @@
         "Price": 22.9
     },
     {
-        "brand": "Hellmann's",
-        "Product Name": "Maionese Light Hellmann's Squeeze 335g",
-        "ean_value": "7891150089501",
-        "Price": 11.98
+        "brand": "Diversos",
+        "Product Name": "Chocolate 40% Cacau Original Lacta Intense Pacote 85g",
+        "ean_value": "7622210699992",
+        "Price": 9.49
     },
     {
         "Product Name": "não encontrado",
@@ -22219,10 +22219,10 @@
         "brand": "sem marca"
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Chocolate 40% Cacau Original Lacta Intense Pacote 85g",
-        "ean_value": "7622210699992",
-        "Price": 9.49
+        "brand": "Hellmann's",
+        "Product Name": "Maionese Light Hellmann's Squeeze 335g",
+        "ean_value": "7891150089501",
+        "Price": 11.98
     },
     {
         "brand": "Diversos",
@@ -22424,6 +22424,12 @@
     },
     {
         "brand": "Diversos",
+        "Product Name": "Azeitona La Violetera Sachê Fatiado 120GR",
+        "ean_value": "7891089447953",
+        "Price": 7.99
+    },
+    {
+        "brand": "Diversos",
         "Product Name": "Pipoca Pronta Caramelo & Coco Maispura Pacote 100g",
         "ean_value": "7908066400402",
         "Price": 12.99
@@ -22451,12 +22457,6 @@
         "Product Name": "Maionese Heinz 400GR",
         "ean_value": "7896102582949",
         "Price": 19.98
-    },
-    {
-        "brand": "Mondelēz International",
-        "Product Name": "Chocolate Tablete Lacta Diamante Negro e Laka 80g",
-        "ean_value": "7622210575630",
-        "Price": 6.49
     },
     {
         "Product Name": "não encontrado",
@@ -22682,16 +22682,16 @@
         "Price": 8.89
     },
     {
-        "brand": "Mamma Bia",
-        "Product Name": "Panettone Italiano Mamma Bia  Tiramisù 750g",
-        "ean_value": "8032636509932",
-        "Price": 89.9
-    },
-    {
         "brand": "Diversos",
         "Product Name": "Pão de Forma Integral Pullman Artesano Pacote 500g",
         "ean_value": "7896002303460",
         "Price": 15.98
+    },
+    {
+        "brand": "Mamma Bia",
+        "Product Name": "Panettone Italiano Mamma Bia  Tiramisù 750g",
+        "ean_value": "8032636509932",
+        "Price": 89.9
     },
     {
         "brand": "Wickbold",
@@ -22864,15 +22864,15 @@
     },
     {
         "brand": "Diversos",
-        "Product Name": "Bolo Pullman Chocolate 250g",
-        "ean_value": "7896002361019",
-        "Price": 11.99
-    },
-    {
-        "brand": "Diversos",
         "Product Name": "Bolo Cenoura Recheio Chocolate Ana Maria QD+ Pacote 35g",
         "ean_value": "7896002366557",
         "Price": 2.39
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Bolo Pullman Chocolate 250g",
+        "ean_value": "7896002361019",
+        "Price": 11.99
     },
     {
         "brand": "Diversos",
@@ -22997,15 +22997,15 @@
     },
     {
         "brand": "Festval",
-        "Product Name": "Pudim de Alpino Festval 600g",
-        "ean_value": "7908073101866",
-        "Price": 33.9
-    },
-    {
-        "brand": "Festval",
         "Product Name": "Pudim de Ninho Festval 600g",
         "ean_value": "7908073101842",
         "Price": 29.9
+    },
+    {
+        "brand": "Festval",
+        "Product Name": "Pudim de Alpino Festval 600g",
+        "ean_value": "7908073101866",
+        "Price": 33.9
     },
     {
         "brand": "Diversos",
@@ -23890,16 +23890,16 @@
         "Price": 39.9
     },
     {
-        "brand": "Diversos",
-        "Product Name": "Sorvete Doce de Leite Paviloche Premium Pote 1l",
-        "ean_value": "7897763531048",
-        "Price": 49.99
-    },
-    {
         "brand": "Bacio Di Latte",
         "Product Name": "Gelato sabor Cioccolato Belga Bacio Di Latte 490ml",
         "ean_value": "7898967660077",
         "Price": 39.9
+    },
+    {
+        "brand": "Diversos",
+        "Product Name": "Sorvete Doce de Leite Paviloche Premium Pote 1l",
+        "ean_value": "7897763531048",
+        "Price": 49.99
     },
     {
         "brand": "Diversos",
@@ -24012,27 +24012,27 @@
     },
     {
         "brand": "Kibon",
-        "Product Name": "Sorvete Kibon Eskibon Mini 105g",
-        "ean_value": "7891075081215",
-        "Price": 12.39
-    },
-    {
-        "brand": "Kibon",
         "Product Name": "Picolé Kibon Frutare Limão 58g Picolé Kibon Frutare Limão Un",
         "ean_value": "7891075010161",
         "Price": 5.19
     },
     {
         "brand": "Kibon",
-        "Product Name": "Sorvete Kibon Blast Snickers 800ml",
-        "ean_value": "7891150061033",
-        "Price": 31.9
+        "Product Name": "Sorvete Kibon Eskibon Mini 105g",
+        "ean_value": "7891075081215",
+        "Price": 12.39
     },
     {
         "brand": "Paviloche",
         "Product Name": "Sorvete Paviloche Doce Leite Zero 500ml",
         "ean_value": "7897763530706",
         "Price": 35.9
+    },
+    {
+        "brand": "Kibon",
+        "Product Name": "Sorvete Kibon Blast Snickers 800ml",
+        "ean_value": "7891150061033",
+        "Price": 31.9
     },
     {
         "brand": "Paviloche",
@@ -24078,15 +24078,15 @@
     },
     {
         "brand": "Kibon",
-        "Product Name": "Picolé Kibon Chicabon 62g Picolé Kibon Chicabon Um",
-        "ean_value": "7891075030091",
-        "Price": 6.39
-    },
-    {
-        "brand": "Kibon",
         "Product Name": "Picolé Kibon Tablito 59g Picolé Kibon Tablito Um",
         "ean_value": "7891075060210",
         "Price": 8.39
+    },
+    {
+        "brand": "Kibon",
+        "Product Name": "Picolé Kibon Chicabon 62g Picolé Kibon Chicabon Um",
+        "ean_value": "7891075030091",
+        "Price": 6.39
     },
     {
         "brand": "Kibon",

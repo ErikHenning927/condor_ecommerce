@@ -1248,6 +1248,12 @@
         "Price": "R$ 7,20"
     },
     {
+        "Product Name": "Cerveja Lokal Pilsen 350ml",
+        "link": "https://www.supermuffato.com.br/cerveja-lokal-pilsen-350-ml-229511/p",
+        "ean_value": "7898377660032",
+        "Price": "R$ 2,00"
+    },
+    {
         "Product Name": "Cerveja Império Puro Malte Pilsen 269ml",
         "link": "https://www.supermuffato.com.br/cerveja-imperio-puro-malte-pilsen-269ml-229094/p",
         "ean_value": "7898915949216",
@@ -1354,12 +1360,6 @@
         "link": "https://www.supermuffato.com.br/espumante-casa-perini-moscatel-aquarela-750ml-234594/p",
         "ean_value": "7896452112582",
         "Price": "R$ 51,50"
-    },
-    {
-        "Product Name": "Cerveja Lokal Pilsen 350ml",
-        "link": "https://www.supermuffato.com.br/cerveja-lokal-pilsen-350-ml-229511/p",
-        "ean_value": "7898377660032",
-        "Price": "R$ 2,00"
     },
     {
         "Product Name": "Whisky Johnnie Walker Black Label 750ml",
@@ -1638,6 +1638,12 @@
         "Price": "R$ 1,60"
     },
     {
+        "Product Name": "Suco Del Valle 100% Suco Maçã 1L",
+        "link": "https://www.supermuffato.com.br/suco-del-valle-100-suco-maca-1-l-219893/p",
+        "ean_value": "7894900612004",
+        "Price": "R$ 10,00"
+    },
+    {
         "Product Name": "Suco Maguary Laranja 200ml",
         "link": "https://www.supermuffato.com.br/suco-maguary-laranja-200-ml-216256/p",
         "ean_value": "7896000594044",
@@ -1659,12 +1665,6 @@
         "Product Name": "Suco Néctar Maguary Morango 1L",
         "link": "https://www.supermuffato.com.br/suco-nectar-maguary-morango-1-l-182483/p",
         "ean_value": "7896000594198",
-        "Price": "R$ 6,10"
-    },
-    {
-        "Product Name": "Suco Néctar Maguary Abacaxi 1L",
-        "link": "https://www.supermuffato.com.br/suco-nectar-maguary-abacaxi-1-l-182482/p",
-        "ean_value": "7896000593979",
         "Price": "R$ 6,10"
     },
     {
@@ -1948,6 +1948,12 @@
         "link": "https://www.supermuffato.com.br/bebida-h2oh-limoneto-500-ml-186491/p",
         "ean_value": "7892840812850",
         "Price": "R$ 3,60"
+    },
+    {
+        "Product Name": "Água Mineral Sferriê sem Gás 510ml",
+        "link": "https://www.supermuffato.com.br/agua-mineral-sferrie-sem-gas-510ml-171121/p",
+        "ean_value": "7898014855074",
+        "Price": "R$ 1,70"
     },
     {
         "Product Name": "Água Mineral Crystal com Gás 500ml",
@@ -4074,6 +4080,12 @@
         "Price": "R$ 14,40"
     },
     {
+        "Product Name": "Coxinha da Asa de Frango Sadia 1kg",
+        "link": "https://www.supermuffato.com.br/coxinha-da-asa-sadia-pacote-1kg-20802/p",
+        "ean_value": "7893000488878",
+        "Price": "R$ 19,50"
+    },
+    {
         "Product Name": "Coração de Frango Perdigão na Brasa Congelado 500g",
         "link": "https://www.supermuffato.com.br/coracao-de-frango-perdigao-na-brasa-congelado-500g-300682/p",
         "ean_value": "7891515592820",
@@ -4132,12 +4144,6 @@
         "link": "https://www.supermuffato.com.br/meio-da-asa-de-frango-muffato-foods-kg-284179/p",
         "ean_value": "277532",
         "Price": "R$ 23,54"
-    },
-    {
-        "Product Name": "Coxinha da Asa Lar 700g",
-        "link": "https://www.supermuffato.com.br/coxinha-lar-da-asa-iqf-700g-283691/p",
-        "ean_value": "7896419727774",
-        "Price": "R$ 15,40"
     },
     {
         "Product Name": "Filé de Tilápia C. Vale Congelado 400g",
@@ -4626,6 +4632,18 @@
         "Price": "R$ 11,20"
     },
     {
+        "Product Name": "Macarrão Sadia Hot Bowls Brócolis e Bacon 300g",
+        "link": "https://www.supermuffato.com.br/macarrao-sadia-hot-bowls-brocolis-e-bacon-300g-294402/p",
+        "ean_value": "7891515600617",
+        "Price": "R$ 11,90"
+    },
+    {
+        "Product Name": "Macarrão Sadia Hot Bowls Carbonara 300g",
+        "link": "https://www.supermuffato.com.br/macarrao-sadia-hot-bowls-carbonara-300g-294400/p",
+        "ean_value": "7891515600624",
+        "Price": "R$ 11,90"
+    },
+    {
         "Product Name": "Waffles Forno de Minas Integral Light Congelado 280g",
         "link": "https://www.supermuffato.com.br/waffles-forno-de-minas-integral-light-congelado-280g-284482/p",
         "ean_value": "7896074606582",
@@ -4720,6 +4738,12 @@
         "link": "https://www.supermuffato.com.br/lasanha-seara-frango-600g-147079/p",
         "ean_value": "7894904070596",
         "Price": "R$ 14,70"
+    },
+    {
+        "Product Name": "Fettuccine com Peru e Brócolis Perdigão Meu Menu 300g",
+        "link": "https://www.supermuffato.com.br/fettuccine-com-peru-e-brocolis-perdigao-meu-menu-300g-298421/p",
+        "ean_value": "7891515606435",
+        "Price": "R$ 11,60"
     },
     {
         "Product Name": "Fettuccine ao Molho Bolonhesa Perdigão Meu Menu 300g",
@@ -4858,24 +4882,6 @@
         "link": "https://www.supermuffato.com.br/panqueca-chasko-frango-350g-258064/p",
         "ean_value": "7898383750352",
         "Price": "R$ 10,10"
-    },
-    {
-        "Product Name": "Fusilli com Tiras de Frango Perdigão Meu Menu 600g",
-        "link": "https://www.supermuffato.com.br/prato-pronto-perdigao-molho-alfredo-cong-600g-257669/p",
-        "ean_value": "7891515536015",
-        "Price": "R$ 19,60"
-    },
-    {
-        "Product Name": "Prato Pronto Perdigão Penne com Mini Almôndegas 600g",
-        "link": "https://www.supermuffato.com.br/prato-pronto-perdigao-penne-com-mini-almondegas-600g-257668/p",
-        "ean_value": "7891515535209",
-        "Price": "R$ 19,60"
-    },
-    {
-        "Product Name": "Polenta Lar Palito Nacional Congelada 1,1kg",
-        "link": "https://www.supermuffato.com.br/polenta-lar-palito-nacional-congelada-11kg-241307/p",
-        "ean_value": "7896419724384",
-        "Price": "R$ 13,60"
     },
     {
         "Product Name": "Picolé Kibon Fruttare Limão 60ml",
@@ -5658,6 +5664,12 @@
         "Price": "R$ 7,20"
     },
     {
+        "Product Name": "Pizza Sadia Frango com Catupiry e Mussarela 460g",
+        "link": "https://www.supermuffato.com.br/pizza-sadia-frango-com-catupiry-e-mussarela-460g-6036/p",
+        "ean_value": "7893000672109",
+        "Price": "R$ 17,50"
+    },
+    {
         "Product Name": "Pizza Sadia Calabresa 460g",
         "link": "https://www.supermuffato.com.br/pizza-sadia-calabresa-460g-5954/p",
         "ean_value": "7893000632073",
@@ -5710,6 +5722,12 @@
         "link": "https://www.supermuffato.com.br/pao-de-queijo-forno-de-minas-coquetel-400g-127489/p",
         "ean_value": "7896074601068",
         "Price": "R$ 15,40"
+    },
+    {
+        "Product Name": "Pizza Sadia 4 Queijos 460g",
+        "link": "https://www.supermuffato.com.br/pizza-sadia-4-queijos-460g-5949/p",
+        "ean_value": "7893000632233",
+        "Price": "R$ 17,50"
     },
     {
         "Product Name": "Pão de Queijo Forno de Minas Receita Caseira Air Fryer 400g",
@@ -5872,18 +5890,6 @@
         "link": "https://www.supermuffato.com.br/wrap-seara-hot-hit-costbarbecue-100g-268204/p",
         "ean_value": "7894904246601",
         "Price": "R$ 10,90"
-    },
-    {
-        "Product Name": "Burrito Seara Hot Hit de Frango com Requeijão 100g",
-        "link": "https://www.supermuffato.com.br/burrito-seara-hot-hit-de-frango-com-requeijao-100g-268203/p",
-        "ean_value": "7894904246618",
-        "Price": "R$ 10,90"
-    },
-    {
-        "Product Name": "Pizza calabrese Seara Gourmet 450g",
-        "link": "https://www.supermuffato.com.br/pizza-seara-calabresa-gourmet-450g-262944/p",
-        "ean_value": "7894904233397",
-        "Price": "R$ 40,20"
     },
     {
         "Product Name": "Batata Mc Cain Tradicional Congelada 720g",
@@ -6318,6 +6324,12 @@
         "Price": "R$ 5,60"
     },
     {
+        "Product Name": "Leite Fermentado Chamyto 6x75g",
+        "link": "https://www.supermuffato.com.br/leite-fermentado-nestle-chamyto-450g-142407/p",
+        "ean_value": "7891000070444",
+        "Price": "R$ 7,20"
+    },
+    {
         "Product Name": "Leite Elegê UHT Semidesnatado 1L",
         "link": "https://www.supermuffato.com.br/leite-elege-uht-semidesnatado-1l-101601/p",
         "ean_value": "7896079500168",
@@ -6454,12 +6466,6 @@
         "link": "https://www.supermuffato.com.br/iogurte-natural-cenoura-laranja-e-mel-nestle-pote-170g-149006/p",
         "ean_value": "7891000072998",
         "Price": "R$ 3,20"
-    },
-    {
-        "Product Name": "Leite Fermentado Chamyto 6x75g",
-        "link": "https://www.supermuffato.com.br/leite-fermentado-nestle-chamyto-450g-142407/p",
-        "ean_value": "7891000070444",
-        "Price": "R$ 7,20"
     },
     {
         "Product Name": "Achocolatado Batavo Choco Milk 200ml com 3un",
@@ -6912,6 +6918,12 @@
         "Price": "R$ 16,50"
     },
     {
+        "Product Name": "Requeijão Président Light 220g",
+        "link": "https://www.supermuffato.com.br/requeijao-light-president-220g-259982/p",
+        "ean_value": "7891097102585",
+        "Price": "R$ 12,10"
+    },
+    {
         "Product Name": "Requeijão Tirol Cremoso Sem Lactose 180g",
         "link": "https://www.supermuffato.com.br/requeijao-tirol-cremoso-sem-lactose-180g-226248/p",
         "ean_value": "7896294900743",
@@ -7116,12 +7128,6 @@
         "Price": "R$ 16,50"
     },
     {
-        "Product Name": "Requeijão Crioulo Bisnaga 400g",
-        "link": "https://www.supermuffato.com.br/requeijao-crioulo-bisnaga-400-g-40496/p",
-        "ean_value": "7896077622220",
-        "Price": "R$ 22,60"
-    },
-    {
         "Product Name": "Queijo Mussarela Président Fatiado 300g",
         "link": "https://www.supermuffato.com.br/queijo-mussarela-president-fatiado-300g-273914/p",
         "ean_value": "7891097103841",
@@ -7164,6 +7170,12 @@
         "Price": "R$ 6,00"
     },
     {
+        "Product Name": "Queijo Tirol Mussarela Fatiado Zero Lactose 150g",
+        "link": "https://www.supermuffato.com.br/queijo-tirol-mussarela-fatiado-zero-lactose-150g-213486/p",
+        "ean_value": "7896256604450",
+        "Price": "R$ 9,20"
+    },
+    {
         "Product Name": "Queijo Parmesão Vigor Ralado 50g",
         "link": "https://www.supermuffato.com.br/queijo-vigor-parmesao-ralado-50-g-8617/p",
         "ean_value": "7891999970053",
@@ -7180,12 +7192,6 @@
         "link": "https://www.supermuffato.com.br/creme-de-ricota-president-light-200g-247822/p",
         "ean_value": "7891097000997",
         "Price": "R$ 7,50"
-    },
-    {
-        "Product Name": "Queijo Tirol Mussarela Fatiado Zero Lactose 150g",
-        "link": "https://www.supermuffato.com.br/queijo-tirol-mussarela-fatiado-zero-lactose-150g-213486/p",
-        "ean_value": "7896256604450",
-        "Price": "R$ 9,20"
     },
     {
         "Product Name": "Queijo Prato Président Fatiado 150g",
@@ -8304,6 +8310,12 @@
         "Price": "R$ 1,50"
     },
     {
+        "Product Name": "Sabonete Francis Relaxamento Gardênia 85g",
+        "link": "https://www.supermuffato.com.br/sabonete-francis-relaxamento-gardenia-85g-249163/p",
+        "ean_value": "7891176117486",
+        "Price": "R$ 1,50"
+    },
+    {
         "Product Name": "Sabonete Francis Suave Alfazema 85g",
         "link": "https://www.supermuffato.com.br/sabonete-francis-suave-alfazema-85-g-249161/p",
         "ean_value": "7891176117516",
@@ -8361,12 +8373,6 @@
         "Product Name": "Sabonete Francis Sedução 85g",
         "link": "https://www.supermuffato.com.br/sabonete-francis-suave-gerbera-85g-249165/p",
         "ean_value": "7891176117479",
-        "Price": "R$ 1,50"
-    },
-    {
-        "Product Name": "Sabonete Francis Relaxamento Gardênia 85g",
-        "link": "https://www.supermuffato.com.br/sabonete-francis-relaxamento-gardenia-85g-249163/p",
-        "ean_value": "7891176117486",
         "Price": "R$ 1,50"
     },
     {
@@ -8556,6 +8562,12 @@
         "Price": "R$ 3,10"
     },
     {
+        "Product Name": "Sabonete Liquido Lux Botanicals Orquídea Negra 200ml Refil",
+        "link": "https://www.supermuffato.com.br/sabonete-liquido-lux-orquidea-negra-200-ml-240499/p",
+        "ean_value": "7891150060210",
+        "Price": "R$ 7,90"
+    },
+    {
         "Product Name": "Desodorante Antitranspirante Aerosol Dove Original 250ml",
         "link": "https://www.supermuffato.com.br/desodorante-aerossol-dove-original-250ml-280155/p",
         "ean_value": "7891150081239",
@@ -8626,6 +8638,12 @@
         "link": "https://www.supermuffato.com.br/desodorante-aerosol-bozzano-sem-perfume-150-ml-169663/p",
         "ean_value": "7891350032406",
         "Price": "R$ 12,90"
+    },
+    {
+        "Product Name": "Desodorante Antitranspirante Rexona Powder Dry 50ml",
+        "link": "https://www.supermuffato.com.br/desodorante-roll-on-rexona-powder-50ml-130068/p",
+        "ean_value": "78924338",
+        "Price": "R$ 7,70"
     },
     {
         "Product Name": "Desodorante em Barra Secret Algodão 45g",
@@ -8838,12 +8856,6 @@
         "Price": "R$ 11,80"
     },
     {
-        "Product Name": "Desodorante Above Women Personalities Fierce e Savage 150ml",
-        "link": "https://www.supermuffato.com.br/desodorante-above-women-personalities-fierce-e-savage-150ml-269341/p",
-        "ean_value": "7899674032423",
-        "Price": "R$ 11,80"
-    },
-    {
         "Product Name": "Creme Dental Colgate Máxima Proteção Anticáries 90g",
         "link": "https://www.supermuffato.com.br/creme-dental-colgate-maxima-protecao-anticaries-90g-4904/p",
         "ean_value": "605a2f82c3c0e826af344e47",
@@ -8910,6 +8922,12 @@
         "Price": "R$ 18,00"
     },
     {
+        "Product Name": "Creme Dental Sorriso Fresh Menthol Impact 90g",
+        "link": "https://www.supermuffato.com.br/creme-dental-sorriso-fresh-menthol-90-g-4945/p",
+        "ean_value": "7891528038568",
+        "Price": "R$ 4,40"
+    },
+    {
         "Product Name": "Enxaguante Bucal Antisséptico Listerine Cool Mint Hortelã Suave 1L",
         "link": "https://www.supermuffato.com.br/enxaguante-bucal-antisseptico-listerine-cool-mint-hortela-suave-1l-286008/p",
         "ean_value": "7702031098287",
@@ -8964,6 +8982,12 @@
         "Price": "R$ 18,00"
     },
     {
+        "Product Name": "Fio Dental DentalClean Menta 50m",
+        "link": "https://www.supermuffato.com.br/fio-dental-dentalclean-menta-50m-169676/p",
+        "ean_value": "7898185411420",
+        "Price": "R$ 8,40"
+    },
+    {
         "Product Name": "Fio Dental Colgate Total Menta 50m",
         "link": "https://www.supermuffato.com.br/fio-dental-colgate-total-menta-50m-120135/p",
         "ean_value": "7891024183021",
@@ -8988,9 +9012,9 @@
         "Price": "R$ 17,80"
     },
     {
-        "Product Name": "Creme Dental Sorriso Fresh Menthol Impact 90g",
-        "link": "https://www.supermuffato.com.br/creme-dental-sorriso-fresh-menthol-90-g-4945/p",
-        "ean_value": "7891528038568",
+        "Product Name": "Creme Dental Sorriso Fresh Hortelã Explosion 90g",
+        "link": "https://www.supermuffato.com.br/creme-dental-sorriso-fresh-hortela-explosion-90-g-4943/p",
+        "ean_value": "7891528038612",
         "Price": "R$ 4,40"
     },
     {
@@ -9118,18 +9142,6 @@
         "link": "https://www.supermuffato.com.br/creme-dental-closeup-multivitaminas---12-beneficios-fresh-85g-288683/p",
         "ean_value": "7891150088344",
         "Price": "R$ 7,40"
-    },
-    {
-        "Product Name": "Creme Dental Close up Multi Vitaminas +12 Benefícios Branqueadora 85 g",
-        "link": "https://www.supermuffato.com.br/creme-dental-close-up-multi-vitaminas--12-beneficios-branqueadora-85-g-288682/p",
-        "ean_value": "7891150088351",
-        "Price": "R$ 7,40"
-    },
-    {
-        "Product Name": "Creme Dental Sorriso 2 em 1 Menta Glacial 120g",
-        "link": "https://www.supermuffato.com.br/creme-dental-sorriso-2-em-1-menta-glacial-120g-286214/p",
-        "ean_value": "7509546680712",
-        "Price": "R$ 5,90"
     },
     {
         "Product Name": "Espuma de Barbear Nivea Men Deep 200ml",
@@ -13134,6 +13146,12 @@
         "Price": "R$ 21,10"
     },
     {
+        "Product Name": "Desinfetante Líquido Harpic Active Fresh Lavanda 500ml",
+        "link": "https://www.supermuffato.com.br/desinfetante-liquido-harpic-active-fresh-lavanda-500ml-9523/p",
+        "ean_value": "7891035126000",
+        "Price": "R$ 18,00"
+    },
+    {
         "Product Name": "Detergente Ypê Clear 500ml 6un",
         "link": "https://www.supermuffato.com.br/detergente-ype-clear-500ml-6un-268887/p",
         "ean_value": "7896098906255",
@@ -13252,12 +13270,6 @@
         "link": "https://www.supermuffato.com.br/detergente-para-lava-loucas-em-po-finish-450g-250997/p",
         "ean_value": "7891035024399",
         "Price": "R$ 26,80"
-    },
-    {
-        "Product Name": "Detergente para Lava Louças em Tablete Finish 13 unidades",
-        "link": "https://www.supermuffato.com.br/detergente-finish-para-maquina-de-lavar-loucas-power-ball-super-poderoso-253-g-226515/p",
-        "ean_value": "7891035024368",
-        "Price": "R$ 36,00"
     },
     {
         "Product Name": "Detergente Gel Ypê Concentrado Clear + 406g",
@@ -14568,6 +14580,12 @@
         "Price": "R$ 18,40"
     },
     {
+        "Product Name": "Esponja Scotch Brite Limpeza Extrema Leve 4un Pague 3un",
+        "link": "https://www.supermuffato.com.br/esponja-scotch-brite-limpeza-extrema-leve-4-pague-3-un-259222/p",
+        "ean_value": "7891040281336",
+        "Price": "R$ 4,34"
+    },
+    {
         "Product Name": "Pano de Limpeza Limppano Toalex 50un",
         "link": "https://www.supermuffato.com.br/pano-de-limpeza-limppano-toalex-50un-228470/p",
         "ean_value": "7896021626533",
@@ -14626,12 +14644,6 @@
         "link": "https://www.supermuffato.com.br/pano-karsten-capa-para-bordar-messina-moo-un-264081/p",
         "ean_value": "7909156586143",
         "Price": "R$ 16,60"
-    },
-    {
-        "Product Name": "Esponja Scotch Brite Limpeza Extrema Leve 4un Pague 3un",
-        "link": "https://www.supermuffato.com.br/esponja-scotch-brite-limpeza-extrema-leve-4-pague-3-un-259222/p",
-        "ean_value": "7891040281336",
-        "Price": "R$ 4,34"
     },
     {
         "Product Name": "Esponja Scotch-Brite Antibac Louças Delicadas Azul Leve 3un Pague 2un",
@@ -14826,6 +14838,12 @@
         "Price": "R$ 8,10"
     },
     {
+        "Product Name": "Pano de Pia Scotch-Brite Amarelo 2 Unidades",
+        "link": "https://www.supermuffato.com.br/pano-de-pia-scotch-brite-amarelo-2-unidades-240976/p",
+        "ean_value": "7891040075478",
+        "Price": "R$ 14,77"
+    },
+    {
         "Product Name": "Saco de Lixo Sert Lixo 50L Rolo 30un",
         "link": "https://www.supermuffato.com.br/saco-de-lixo-sert-lixo-50l-rolo-30un-83114/p",
         "ean_value": "7898242350037",
@@ -14934,6 +14952,12 @@
         "Price": "R$ 22,70"
     },
     {
+        "Product Name": "Papel Higiênico Personal Vip Folha Dupla Neutro Leve 12 Pague 11 Unidade",
+        "link": "https://www.supermuffato.com.br/papel-higienico-personal-vip-fdn-leve-12-pague-11-un-197842/p",
+        "ean_value": "7896110008653",
+        "Price": "R$ 17,40"
+    },
+    {
         "Product Name": "Papel Higiênico Neve Supreme Leve 16 Rolos Pague 15 Rolos",
         "link": "https://www.supermuffato.com.br/papel-hig-neve-supreme-ftn-lv16-pg15-un-189342/p",
         "ean_value": "ecaef8656e169eccd489e0c4f157d646",
@@ -14956,12 +14980,6 @@
         "link": "https://www.supermuffato.com.br/papel-higienico-mili-prime-folha-tripla-neutro-4-rolos-265647/p",
         "ean_value": "7896104995129",
         "Price": "R$ 7,20"
-    },
-    {
-        "Product Name": "Papel Higiênico Personal Vip Folha Dupla Neutro Leve 12 Pague 11 Unidade",
-        "link": "https://www.supermuffato.com.br/papel-higienico-personal-vip-fdn-leve-12-pague-11-un-197842/p",
-        "ean_value": "7896110008653",
-        "Price": "R$ 17,40"
     },
     {
         "Product Name": "Papel Higiênico Personal Vip Folha Dupla Neutro 30m Leve 16un Pague 15un",
@@ -15504,6 +15522,12 @@
         "Price": "R$ 10,20"
     },
     {
+        "Product Name": "Açúcar Refinado Caravelas 1kg",
+        "link": "https://www.supermuffato.com.br/acucar-refinado-caravelas-1-kg-112611/p",
+        "ean_value": "acucar",
+        "Price": "R$ 4,40"
+    },
+    {
         "Product Name": "Açúcar Refinado Caravelas 5kg",
         "link": "https://www.supermuffato.com.br/acucar-refinado-caravelas-5-kg-112538/p",
         "ean_value": "7896894900037",
@@ -15522,16 +15546,16 @@
         "Price": "R$ 6,00"
     },
     {
-        "Product Name": "Açúcar Refinado Caravelas 1kg",
-        "link": "https://www.supermuffato.com.br/acucar-refinado-caravelas-1-kg-112611/p",
-        "ean_value": "acucar",
-        "Price": "R$ 4,40"
-    },
-    {
         "Product Name": "Açúcar Refinado União 1kg",
         "link": "https://www.supermuffato.com.br/acucar-uniao-refinado-1kg-12030/p",
         "ean_value": "7891910000197",
         "Price": "R$ 5,10"
+    },
+    {
+        "Product Name": "Açúcar Cristal Colombo 5kg",
+        "link": "https://www.supermuffato.com.br/acucar-colombo-cristal-pct-5kg-177437/p",
+        "ean_value": "7896894900082",
+        "Price": "R$ 17,50"
     },
     {
         "Product Name": "Açúcar Refinado Alto Alegre 5kg",
@@ -16158,6 +16182,12 @@
         "Price": "R$ 4,60"
     },
     {
+        "Product Name": "Farinha de Trigo Famiglia Venturelli 1kg",
+        "link": "https://www.supermuffato.com.br/farinha-de-trigo-famiglia-venturelli-1kg-203/p",
+        "ean_value": "7896534400200",
+        "Price": "R$ 5,00"
+    },
+    {
         "Product Name": "Farinha de Trigo Anaconda Premium 1kg",
         "link": "https://www.supermuffato.com.br/farinha-de-trigo-anaconda-premium-1kg-103212/p",
         "ean_value": "7896419422013",
@@ -16168,12 +16198,6 @@
         "link": "https://www.supermuffato.com.br/lentilha-caldo-bom-500g-27861/p",
         "ean_value": "7896273900320",
         "Price": "R$ 6,20"
-    },
-    {
-        "Product Name": "Farinha de Trigo Famiglia Venturelli 1kg",
-        "link": "https://www.supermuffato.com.br/farinha-de-trigo-famiglia-venturelli-1kg-203/p",
-        "ean_value": "7896534400200",
-        "Price": "R$ 5,00"
     },
     {
         "Product Name": "Tapioca Da Terrinha 500g",
@@ -17130,6 +17154,12 @@
         "Price": "R$ 5,10"
     },
     {
+        "Product Name": "Pipoca de Micro-ondas Yoki Natural com Sal 90g",
+        "link": "https://www.supermuffato.com.br/pipoca-de-micro-ondas-yoki-natural-com-sal-90g-247158/p",
+        "ean_value": "7891095030200",
+        "Price": "R$ 3,60"
+    },
+    {
         "Product Name": "Milho para Pipoca Caldo Bom 500g",
         "link": "https://www.supermuffato.com.br/milho-para-pipoca-caldo-bom-500-g-27862/p",
         "ean_value": "7896273900122",
@@ -17700,6 +17730,18 @@
         "Price": "R$ 5,10"
     },
     {
+        "Product Name": "Biscoito BelVita Maçã e Canela Multipack 75g",
+        "link": "https://www.supermuffato.com.br/biscoito-belvita-maca-e-canela-multipack-75g-226052/p",
+        "ean_value": "7622210661777",
+        "Price": "R$ 5,10"
+    },
+    {
+        "Product Name": "Biscoito BelVita Mel e Cacau Multipack 75g",
+        "link": "https://www.supermuffato.com.br/biscoito-belvita-mel-e-cacau-multipack-75g-226051/p",
+        "ean_value": "7622210661814",
+        "Price": "R$ 5,10"
+    },
+    {
         "Product Name": "Biscoito Club Social Integral Tradicional Embalagem Econômica 288g",
         "link": "https://www.supermuffato.com.br/biscoito-club-social-integral-tradicional-288g-214202/p",
         "ean_value": "7622300992330",
@@ -17784,18 +17826,6 @@
         "Price": "R$ 2,70"
     },
     {
-        "Product Name": "Biscoito Recheado Trakinas Morango 42g",
-        "link": "https://www.supermuffato.com.br/biscoito-recheado-trakinas-morango-42g-294179/p",
-        "ean_value": "7622210569608",
-        "Price": "R$ 1,70"
-    },
-    {
-        "Product Name": "Biscoito Recheado Marilan Paw Patrol Morango 80g",
-        "link": "https://www.supermuffato.com.br/biscoito-marilan-paw-patrol-morango-80g-294151/p",
-        "ean_value": "7896003739329",
-        "Price": "R$ 0,63"
-    },
-    {
         "Product Name": "Leite em Pó Ninho Integral 380g",
         "link": "https://www.supermuffato.com.br/leite-em-po-ninho-integral-380g-273047/p",
         "ean_value": "7891000325858",
@@ -17812,6 +17842,12 @@
         "link": "https://www.supermuffato.com.br/doce-de-leite-tirol-tradicional-350g-128939/p",
         "ean_value": "7896256600278",
         "Price": "R$ 8,50"
+    },
+    {
+        "Product Name": "Cereal Matinal Kellogg's Sucrilhos Original 240g",
+        "link": "https://www.supermuffato.com.br/cereal-matinal-kellogg-s-sucrilhos-original-240g-277913/p",
+        "ean_value": "7896004007427",
+        "Price": "R$ 8,99"
     },
     {
         "Product Name": "Achocolatado em Pó Nescau 550g",
@@ -17842,12 +17878,6 @@
         "link": "https://www.supermuffato.com.br/leite-em-po-tirol-integral-400g-283513/p",
         "ean_value": "7896256603743",
         "Price": "R$ 14,40"
-    },
-    {
-        "Product Name": "Cereal Matinal Kellogg's Sucrilhos Original 240g",
-        "link": "https://www.supermuffato.com.br/cereal-matinal-kellogg-s-sucrilhos-original-240g-277913/p",
-        "ean_value": "7896004007427",
-        "Price": "R$ 8,99"
     },
     {
         "Product Name": "Creme de Avelã Nutella 350g",
@@ -18588,6 +18618,12 @@
         "Price": "R$ 8,20"
     },
     {
+        "Product Name": "Chocolate Nestlé Classic ao Leite com Amendoim 150g",
+        "link": "https://www.supermuffato.com.br/chocolate-nestle-classic-ao-leite-com-amendoim-150g-285100/p",
+        "ean_value": "7891000358887",
+        "Price": "R$ 8,20"
+    },
+    {
         "Product Name": "Chocolate Nestlé Classic Duo Cookie 150g",
         "link": "https://www.supermuffato.com.br/chocolate-nestle-classic-duo-cookie-150g-285099/p",
         "ean_value": "7891000359006",
@@ -18652,12 +18688,6 @@
         "link": "https://www.supermuffato.com.br/choc-lacta-laka-165g-254808/p",
         "ean_value": "7622210709943",
         "Price": "R$ 8,60"
-    },
-    {
-        "Product Name": "Bala Butter Toffees Coco 100g",
-        "link": "https://www.supermuffato.com.br/bala-butter-toffees-coco-100g-249562/p",
-        "ean_value": "7891118015405",
-        "Price": "R$ 6,20"
     },
     {
         "Product Name": "Massa Arroz de Temperado Bifum Sabor Galinha 67g",
@@ -19846,6 +19876,12 @@
         "link": "https://www.supermuffato.com.br/pa£o-de-mandioquinha-caiserinho-kg-163265/p",
         "ean_value": "163265",
         "Price": "R$ 27,70"
+    },
+    {
+        "Product Name": "Pão Caseiro Thabrulai com Aipim 600g",
+        "link": "https://www.supermuffato.com.br/pao-thabrulai-caseiro-com-aipim-600g-162459/p",
+        "ean_value": "7896999099155",
+        "Price": "R$ 8,50"
     },
     {
         "Product Name": "Panettone Muffato Frutas Cristalizadas 400g",

@@ -1,8 +1,8 @@
-from muffato import *
-from festval import *
-from dataframes import *
-from condoremcasa import *
-from promo_muffato import *
+from markets.muffato import *
+from markets.festval import *
+from markets.dataframes import *
+from markets.condoremcasa import *
+from markets.promo_muffato import *
 import schedule
 import time
 from datetime import datetime

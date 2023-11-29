@@ -6,7 +6,8 @@ import streamlit_authenticator as stauth
 from streamlit_authenticator import Authenticate
 import yaml
 from yaml.loader import SafeLoader
-from markets.main import *
+
+#from markets.main import *
 
 st.header(":robot_face: Powder!")
 with open('users/config.yaml') as file:
@@ -36,9 +37,10 @@ name, authentication_status, username = authenticator.login('Login', 'main')
 
 if authentication_status:
     if username == "erik.henning":
+        from markets.main import *
         if st.button('Processar Dados'):
             scrap()
-
+       
     authenticator.logout('Logout', 'main')
     st.write(f'Bem Vindo *{name}*')
 
@@ -184,7 +186,7 @@ if authentication_status:
     
     st.dataframe(df_filtered)  
     
-    
+
 elif authentication_status == False:
     st.error('Usuário ou senha incorretos')
 # elif authentication_status == None:
