@@ -8,7 +8,7 @@ name, authentication_status, username = authenticator.login('Login', 'main')
 if not authentication_status:
     st.error("Acesso negado. Por favor, faça login.")
     st.stop()  
-st.set_page_config(layout="wide", page_title="Muffato vs Festval")
+# st.set_page_config(layout="wide", page_title="Muffato vs Festval")
 try:
     df = st.session_state["df_robo"]
 except KeyError:
@@ -147,6 +147,7 @@ columns = [
 
 st.title('Base')
 st.markdown("-- baseado no filtro aplicado no gráfico")
+filtered_common_eans['ean_value'] = filtered_common_eans['ean_value'].astype(str)
 
 st.dataframe(filtered_common_eans[columns],
              column_config={

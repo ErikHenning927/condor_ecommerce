@@ -22,7 +22,7 @@ def make_dataframe():
 
     # Filtrar as linhas onde o preço não é 0.00
     filtered_df = combined_df[combined_df['Price'] != 0.00]
-
+    
 
     filtered_df.to_csv('dataset/base.csv', index=False)
 

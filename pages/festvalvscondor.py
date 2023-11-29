@@ -7,6 +7,7 @@ st.header(":robot_face: Powder!")
 @st.cache  
 def load_data():
     df = pd.read_csv("dataset/base.csv")
+    
     return df
 
 name, authentication_status, username = authenticator.login('Login', 'main')
@@ -18,6 +19,7 @@ if not authentication_status:
 if 'df_robo' not in st.session_state:
     st.session_state['df_robo'] = load_data()
 df = st.session_state['df_robo']
+
 st.title('Festval vs Condor')
 search_ean = st.text_input("Pesquisar por EAN")
 # Divisão do DataFrame por loja
@@ -102,7 +104,7 @@ def create_comparison_figure(df):
             marker_color='green',
             text=[f'R${x:.2f}' for x in filtered_common_eans['Price_festval']],
             textposition='outside',
-            hovertext=filtered_common_eans['Product Name_festval'],
+            hovertext=filtered_common_eans['ean_value'],
             textfont=dict(size=24)
         )
     )
@@ -115,7 +117,7 @@ def create_comparison_figure(df):
             marker_color='blue',
             text=[f'R${x:.2f}' for x in filtered_common_eans['Price_condor']],
             textposition='outside',
-            hovertext=filtered_common_eans['Product Name_condor'],
+            hovertext=filtered_common_eans['ean_value'],
             textfont=dict(size=24)
         )
     )
@@ -175,6 +177,9 @@ columns_onlyf = [
 # Exibição dos DataFrames
 st.title('Base')
 st.markdown("-- baseado no filtro aplicado no gráfico")
+filtered_common_eans['ean_value'] = filtered_common_eans['ean_value'].astype(str)
+exclusive_festval['ean_value'] = exclusive_festval['ean_value'].astype(str)
+
 st.dataframe(filtered_common_eans[columns_candf])
 
 st.title('Ativos somente no Festval')

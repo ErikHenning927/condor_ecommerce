@@ -8,7 +8,7 @@ name, authentication_status, username = authenticator.login('Login', 'main')
 if not authentication_status:
     st.error("Acesso negado. Por favor, faça login.")
     st.stop()  
-st.set_page_config(layout="wide", page_title="Muffato vs Condor vs Festval")
+
 try:
     df = st.session_state["df_robo"]
 except KeyError:
@@ -156,6 +156,8 @@ if display_comparison:
     st.plotly_chart(fig, use_container_width=True)
 
 st.title('Base')
+filtered_common_eans['ean_value'] = filtered_common_eans['ean_value'].astype(str)
+
 st.markdown("-- baseado no filtro aplicado no gráfico")
 columns = [
     'Product Name_muffato', 'Product Name_condor', 'Product Name', 'ean_value', 'Price_muffato', 

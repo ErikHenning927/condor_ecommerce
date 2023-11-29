@@ -178,7 +178,8 @@ columns_mandc = ['ean_value', 'Product Name_muffato', 'Product Name_condor', 'Pr
 
 st.title('Base')
 st.markdown("-- baseado no filtro aplicado no gráfico")
-
+filtered_common_eans['ean_value'] = filtered_common_eans['ean_value'].astype(str)
+exclusive_muffato['ean_value'] = exclusive_muffato['ean_value'].astype(str)
 st.dataframe(filtered_common_eans[columns_mandc],
              column_config={
                  "diff_percent": st.column_config.ProgressColumn(
