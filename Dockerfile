@@ -9,13 +9,12 @@ RUN apt-get update && apt-get install -y \
     curl \
     && rm -rf /var/lib/apt/lists/*
 
-
+# Copie os arquivos do projeto para o diretório de trabalho
 COPY . /app
 
-RUN pip install -r requirements.txt
+# Exponha a porta que o Streamlit usará
+EXPOSE 16549
 
+# Comando para rodar o aplicativo Streamlit 
+CMD ["./start.sh"]
 
-EXPOSE 16548
-
-
-CMD ["streamlit", "run", "home.py", "--server.port=16548", "--server.address=0.0.0.0"]

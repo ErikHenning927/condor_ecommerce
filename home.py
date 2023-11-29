@@ -6,6 +6,7 @@ import streamlit_authenticator as stauth
 from streamlit_authenticator import Authenticate
 import yaml
 from yaml.loader import SafeLoader
+from markets.main import *
 
 st.header(":robot_face: Powder!")
 with open('users/config.yaml') as file:
@@ -21,6 +22,10 @@ authenticator = Authenticate(
 )
 name, authentication_status, username = authenticator.login('Login', 'main')
 if authentication_status:
+    if username == "erik.henning":
+        if st.button('Processar Dados'):
+            scrap()
+
     authenticator.logout('Logout', 'main')
     st.write(f'Bem Vindo *{name}*')
 

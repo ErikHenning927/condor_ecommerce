@@ -1,8 +1,8 @@
-from muffato import *
-from festval import *
-from dataframes import *
-from condoremcasa import *
-from promo_muffato import *
+from markets.muffato import *
+from markets.festval import *
+from markets.dataframes import *
+from markets.condoremcasa import *
+from markets.promo_muffato import *
 import schedule
 import time
 from datetime import datetime
@@ -127,7 +127,14 @@ def scrap():
         print(f'Dados atualizados em {sched}')
        
 
-schedule.every().day.at("09:52").do(scrap)
-while True:
-    schedule.run_pending()
-    time.sleep(60) 
+# schedule.every().day.at("21:03").do(scrap)
+# while True:
+#     print('Rodando')
+#     schedule.run_pending()
+#     time.sleep(60) 
+# schedule.every(5).minutes.do(scrap)
+
+# while True:
+#     print('Rodando')
+#     schedule.run_pending()
+#     time.sleep(1)

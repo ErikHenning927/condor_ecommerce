@@ -1,9 +1,9 @@
 version: '3.9'
 services:
   streamlit-app:
-    image: ecommerce_condor #docker build -t ecommerce_condor .
-    container_name: e-commerce
+    image: condor_ecommerce
+    container_name: dash_app
     ports:
-      - "16548:16548"
+      - "16549:16549"
     volumes:
       - .:/app
