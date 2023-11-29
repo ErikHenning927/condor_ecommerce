@@ -12,7 +12,18 @@ st.header(":robot_face: Powder!")
 with open('users/config.yaml') as file:
     config = yaml.load(file, Loader=SafeLoader)
 hashed_passwords = stauth.Hasher(['condor2023', 'condor2023']).generate()
+def show_register_form():
+    with st.form(key='register_form'):
+        new_email = st.text_input('Email')
+        new_username = st.text_input('Username')
+        new_name = st.text_input('Name')
+        new_password = st.text_input('Password', type='password')
+        new_password_repeat = st.text_input('Repeat Password', type='password')
+        submit_button = st.form_submit_button(label='Register')
 
+        if submit_button:
+            return new_email, new_username, new_name, new_password, new_password_repeat
+    return None, None, None, None, None
 authenticator = Authenticate(
     config['credentials'],
     config['cookie']['name'],
@@ -21,6 +32,8 @@ authenticator = Authenticate(
     config['preauthorized']
 )
 name, authentication_status, username = authenticator.login('Login', 'main')
+
+
 if authentication_status:
     if username == "erik.henning":
         if st.button('Processar Dados'):
@@ -171,8 +184,39 @@ if authentication_status:
     
     st.dataframe(df_filtered)  
     
-
+    
 elif authentication_status == False:
     st.error('Usuário ou senha incorretos')
-elif authentication_status == None:
-    st.warning('Por favor, digite usuário e senha!')
+# elif authentication_status == None:
+#     st.warning('Por favor, digite usuário e senha!')
+else:
+    st.markdown('Caso não tenha usuário registre-se')
+    email, username, name, password, password_repeat = show_register_form()
+    if email and username and name and password and password_repeat:
+        # Definição da Função de Hash
+        def hash_password(password):
+            hashed_password = stauth.Hasher([password]).generate()
+            return hashed_password[0]
+
+        # Função para Adicionar Usuário ao YAML
+        def add_user_to_yaml(username, name, password, email):
+            file_path = 'users/config.yaml'
+            with open(file_path) as file:
+                config = yaml.safe_load(file)
+
+            hashed_password = hash_password(password)
+
+            config['credentials']['usernames'][username] = {
+                'email': email,
+                'name': name,
+                'password': hashed_password
+            }
+
+            with open(file_path, 'w') as file:
+                yaml.dump(config, file)
+        # Validação e Registro de Usuário
+        if password == password_repeat:
+            add_user_to_yaml(username, name, password, email)
+            st.write('Usuário criado com sucesso, faça login acima!')
+        else:
+            st.error("Passwords do not match.")
