@@ -28,6 +28,10 @@ credentials:
       email: testando2
       name: teste22
       password: $2b$12$5XQj2HxcA78RoEWTz5AC4OICtw25QTf6Op40kv40IkJB2IL0S1A.u
+    teste23:
+      email: teste23
+      name: teste23
+      password: $2b$12$H2yJOAhsAQnirh4ahS8SGemyuLnpPHr5P50d2IDD2gwQGn5rarZbO
 preauthorized:
   emails:
   - henningerik2@gmail.com

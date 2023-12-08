@@ -40,7 +40,37 @@ if authentication_status:
         from markets.main import *
         if st.button('Processar Dados'):
             scrap()
-       
+    if username == 'henning':
+        st.markdown('Caso não tenha usuário registre-se')
+        email, username, name, password, password_repeat = show_register_form()
+        if email and username and name and password and password_repeat:
+            # Definição da Função de Hash
+            def hash_password(password):
+                hashed_password = stauth.Hasher([password]).generate()
+                return hashed_password[0]
+
+            # Função para Adicionar Usuário ao YAML
+            def add_user_to_yaml(username, name, password, email):
+                file_path = 'users/config.yaml'
+                with open(file_path) as file:
+                    config = yaml.safe_load(file)
+
+                hashed_password = hash_password(password)
+
+                config['credentials']['usernames'][username] = {
+                    'email': email,
+                    'name': name,
+                    'password': hashed_password
+                }
+
+                with open(file_path, 'w') as file:
+                    yaml.dump(config, file)
+            # Validação e Registro de Usuário
+            if password == password_repeat:
+                add_user_to_yaml(username, name, password, email)
+                st.write('Usuário criado com sucesso, faça login acima!')
+            else:
+                st.error("Passwords do not match.") 
     authenticator.logout('Logout', 'main')
     st.write(f'Bem Vindo *{name}*')
 
@@ -189,36 +219,7 @@ if authentication_status:
 
 elif authentication_status == False:
     st.error('Usuário ou senha incorretos')
-# elif authentication_status == None:
-#     st.warning('Por favor, digite usuário e senha!')
-else:
-    st.markdown('Caso não tenha usuário registre-se')
-    email, username, name, password, password_repeat = show_register_form()
-    if email and username and name and password and password_repeat:
-        # Definição da Função de Hash
-        def hash_password(password):
-            hashed_password = stauth.Hasher([password]).generate()
-            return hashed_password[0]
+elif authentication_status == None:
+    st.warning('Por favor, digite usuário e senha!')
 
-        # Função para Adicionar Usuário ao YAML
-        def add_user_to_yaml(username, name, password, email):
-            file_path = 'users/config.yaml'
-            with open(file_path) as file:
-                config = yaml.safe_load(file)
-
-            hashed_password = hash_password(password)
-
-            config['credentials']['usernames'][username] = {
-                'email': email,
-                'name': name,
-                'password': hashed_password
-            }
-
-            with open(file_path, 'w') as file:
-                yaml.dump(config, file)
-        # Validação e Registro de Usuário
-        if password == password_repeat:
-            add_user_to_yaml(username, name, password, email)
-            st.write('Usuário criado com sucesso, faça login acima!')
-        else:
-            st.error("Passwords do not match.")
+    

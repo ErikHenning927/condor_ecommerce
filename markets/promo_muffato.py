@@ -91,7 +91,7 @@ def promo_m():
     
     links_info = get_links()
 
-    values_to_remove = ["Selinhos", "Reinauguracao Cataratas", "Express", "MGO"]
+    values_to_remove = ["Selinhos", "Reinauguracao Cataratas", "Express", "MGO", "Loja Virtual Lacta"]
 
     file_path = 'json/links.json'
 
@@ -103,3 +103,4 @@ def promo_m():
     all_products = promos_muffato(links_info_updated)
 
     return all_products
+
