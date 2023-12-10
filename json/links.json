@@ -158,5 +158,15 @@
         "href": "https://www.supermuffato.com.br/8250?PS=48&map=productClusterIds&O=OrderByTopSaleDESC&sc=13&utmi_cp=241012023122643170",
         "src": "https://muffatosupermercados.vteximg.com.br/arquivos/smd_home_slider_b_natal_23_12_01_salgadinhos_marilan.png?v=638369617075030000",
         "alt": "marilan salgadinhos"
+    },
+    {
+        "href": "https://www.supermuffato.com.br/lojas-fisicas/encartes-e-videos?loja=22&sc=13&utmi_cp=241012023122643170",
+        "src": "https://muffatosupermercados.vteximg.com.br/arquivos/banner_reinauguracao_venhaconhe.png?v=638342739384300000",
+        "alt": "Reinauguracao Cataratas"
+    },
+    {
+        "href": "https://www.supermuffato.com.br/detectAppMuffatoExpress&sc=13&utmi_cp=241012023122643170",
+        "src": "https://muffatosupermercados.vteximg.com.br/arquivos/express_622x642t_23_08_institucional.png?v=638282477192900000",
+        "alt": "Express"
     }
 ]
