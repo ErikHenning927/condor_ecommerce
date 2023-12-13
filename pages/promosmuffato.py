@@ -33,7 +33,9 @@ common_eans = pd.merge(promos_df, df_condor, on="ean_value", how="inner",
                        suffixes=('_muffato', '_condor')).reset_index()
 common_eans['diff_percent'] = ((common_eans['Price_condor'] - common_eans['Price_muffato']) / common_eans['Price_condor'] * 100).fillna(0)
 #common_eans.to_excel('black.xlsx')
-filtered_common_eans = common_eans.copy()
+#filtered_common_eans = common_eans.copy()
+filtered_common_eans = common_eans.drop_duplicates(subset='ean_value').reset_index(drop=True)
+
 selected_brand = st.sidebar.multiselect(
     'Selecione uma promoção', 
     options=common_eans['Alt Text'].unique(),
@@ -41,6 +43,7 @@ selected_brand = st.sidebar.multiselect(
 )
 if selected_brand:
     filtered_common_eans = filtered_common_eans[filtered_common_eans['Alt Text'].isin(selected_brand)].reset_index(drop=True)
+    promos_df = promos_df[promos_df['Alt Text'].isin(selected_brand)].reset_index(drop=True)
 
 average_muffato = filtered_common_eans['Price_muffato'].mean()
 average_condor = filtered_common_eans['Price_condor'].mean()
@@ -60,7 +63,11 @@ columns = [
     'brand', 'Departament', 'Category', 'SubCategory', 'Image URL'
 
 ]
+
+st.markdown('Produtos em comum')
 st.dataframe(filtered_common_eans[columns])
 
 
+st.markdown('Promoções Muffato!')
+st.dataframe(promos_df)
 

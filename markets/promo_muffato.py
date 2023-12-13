@@ -45,7 +45,14 @@ def promos_muffato(url_list_promo):
 
     return all_products
 
+def is_valid_url(url):
 
+    if not re.match(r'https?://', url):
+        return False
+
+    if url.count("https://www.supermuffato.com.br") > 1:
+        return False
+    return True
 def get_links():
     url_muffato = "https://www.supermuffato.com.br/?ref=logo"
     headers = {
@@ -67,21 +74,24 @@ def get_links():
                 alt = img_tag.get('alt', '')
                 end_url = "&sc=13&utmi_cp=241012023122643170"
                 links_info.append({"href": f"https://www.supermuffato.com.br{href}{end_url}", "src": f"https://muffatosupermercados.vteximg.com.br{src}", "alt": alt})
-                
+
+    # Agora filtramos os links
+    filtered_links_info = []
+    for link in links_info:
+        href = link['href']
+        if is_valid_url(href):
+            try:
+                response = requests.head(href, timeout=5)
+                if response.status_code == 200:
+                    filtered_links_info.append(link)
+            except requests.RequestException:
+                pass  # Ignora URLs que causam exceção
 
     with open('json/links.json', 'w', encoding='utf-8') as f:
-        json.dump(links_info, f, ensure_ascii=False, indent=4)
+        json.dump(filtered_links_info, f, ensure_ascii=False, indent=4)
 
-    return links_info  
+    return filtered_links_info
 
-
-def remove_values_from_json(file_path, values_to_remove):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        data = json.load(file)
-    filtered_data = [entry for entry in data if entry['alt'] not in values_to_remove]
-    with open(file_path, 'w', encoding='utf-8') as file:
-        json.dump(filtered_data, file, ensure_ascii=False, indent=4)
-values_to_remove = ["Selinhos", "Reinauguracao Cataratas", "Express", "MGO"]
 
 file_path = 'json/links.json'
 with open(file_path, 'r', encoding='utf-8') as file:
@@ -91,11 +101,7 @@ def promo_m():
     
     links_info = get_links()
 
-    values_to_remove = ["Selinhos", "Reinauguracao Cataratas", "Express", "MGO"]
-
     file_path = 'json/links.json'
-
-    remove_values_from_json(file_path, values_to_remove)
 
     with open(file_path, 'r', encoding='utf-8') as file:
         links_info_updated = json.load(file)
@@ -103,3 +109,5 @@ def promo_m():
     all_products = promos_muffato(links_info_updated)
 
     return all_products
+
+promo_m()
