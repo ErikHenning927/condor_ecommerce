@@ -8,6 +8,10 @@ credentials:
       email: henningerik2@gmail.com
       name: Erik Henning
       password: $2b$12$mdZpnCxTmhBHzdzRgt8pI.gCXjKXozoNyKlcTTtLoZRH/bJSzHawy
+    hector.velasques:
+      email: hector.velasques@condor.com.br
+      name: Hector
+      password: $2b$12$4SWPa/7t/mbwnwcxkPr/9ONJf3s.kU7nqWMOPsukwZKJNnvnGuOOy
     henning:
       email: henning@outlook.com
       name: Erik Ribeiro
